@@ -1,0 +1,24 @@
+# monthly commit to keep GitHub Actions schedules from being disabled after 60 days of inactivity
+name: keepalive
+
+on:
+  schedule:
+    - cron: "0 8 1 * *"      # once per month, UTC
+  workflow_dispatch:
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+      - name: Bump timestamp, commit
+        run: |
+          git config --global user.email "loop@example.com"
+          git config --global user.name "loop bot"
+          echo "Last checked: $(date -u)" >> .keepalive-last-check
+          git add .keepalive-last-check
+          (git commit -m "chore: keepalive ping" --allow-empty || true)
+          git push origin main || true
