@@ -1,0 +1,6 @@
+# Autopilot Affiliate Loop - ignore generated output
+./site/
+./data/
+./posts/
+__pycache__/
+*.pyc

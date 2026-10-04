@@ -1,0 +1,17 @@
+# Affiliates overrides file (manual entry fixes)
+# Merge with affiliates.json at ingest time. Useful for:
+#   - exact-match overrides when keyword matching is wrong
+#   - your unique affiliate IDs per tool
+#   - excluding specific entries from any affiliate link
+#
+# Entries are matched by their 'url'. Provide enough of the URL to match.
+# If 'affiliate.program' == null the entry becomes a bare reference link.
+# Example:
+#
+# overrides:
+#   - url_match: "https://www.jasper.ai/"
+#     program: "Jasper"
+#     offer_url: "https://www.jasper.ai/affiliates?ref=YOUR_ID_HERE"
+#     label: "Get 50% off Jasper"
+#   - url_match: "https://openai.com/"
+#     affiliate: null

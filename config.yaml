@@ -1,0 +1,71 @@
+# Autopilot Affiliate Loop — configuration
+# Copy this file to config.yaml and fill in your own values before first run.
+# Everything here is configurable; the loop reads no secrets from here
+# (secrets live in GitHub repository Secrets).
+
+# ----- SITE / LOOP identity ---------------------------------------------------
+site:
+  name: "AI Tools Curated"            # site headline
+  domain: "yourdomain.github.io"       # will host on GitHub Pages at <user>.github.io or CNAME
+  language: en
+  timezone: UTC
+
+# ----- CONTENT SOURCES (GitHub repositories of existing material) ----------
+# Each source is a curated list of tools/resources ALREADY created by others.
+# Your loop ingests, normalizes, and republishes entries with attribution.
+# supported per-source types: github{owner,repo[,branch]} | local{path}
+sources:
+  # PRIMARY SOURCE: a big, MIT-licensed AI tool directory.
+  # Replace with your chosen niche repo(s); the loop handles any number.
+  - type: github
+    owner: eudk
+    repo: awesome-ai-tools
+    branch: main
+    categories: ["all"]                 # publish every category found
+    priority: 90                        # tie-breaker when deduping across sources
+    include_affiliate_targets: true
+
+  # ALTERNATIVE SOURCES (uncomment to add):
+  # - type: github
+  #   owner: public-apis
+  #   repo: public-apis
+  #   branch: master
+  #   categories: ["all"]
+  #   priority: 80
+  # - type: local                       # for local/demo testing only
+  #   # disabled below
+
+# Affiliate monetization -------------------------------------------------------
+# Map keywords / exact names to affiliate programs. The generator emits your
+# unique links next to matching entries. Two mapping files are merged:
+# affiliates.json (program rules) + manual_overrides.yaml (per-entry fixes).
+affiliates:
+  file: affiliates.json         # program rules (keywords -> offers)
+  overrides_file: manual_overrides.yaml
+
+# Where generated artifacts land
+output:
+  site_dir: ./site              # static site root (git-tracked, deployed to gh-pages)
+  data_dir: ./data              # entries.json + run log
+  posts_dir: ./posts            # weekly social-media post drafts (Postiz/n8n ready)
+
+# Email digest + blog mirror (see publisher.py) --------------------------------
+distribution:
+  enabled: true
+  smtp:
+    host: smtp.gmail.com
+    port: 587
+    user: "${SMTP_USER}"          # filled from GitHub Secret, never written to repo
+    password: "${SMTP_PASS}"
+  email_to: "${EMAIL_TO}"
+  blogger_mirror:
+    enabled: false
+    secret_posting_address: "${BLOGGER_SECRET_EMAIL_ADDRESS}"
+    label: "loop-digest"
+    draft: false
+
+# Scheduler tuning ------------------------------------------------------------
+ingest:
+  max_items: 300                # hard cap so runs stay cheap/fast
+  dedupe_similar_title: 0.75    # near-duplicate title similarity threshold
+  min_description_chars: 5      # drop bare-name entries with no description

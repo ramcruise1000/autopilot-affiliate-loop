@@ -1,0 +1,52 @@
+{
+  "description": "Affiliate-program rules keyed by keywords / tool names. Values: { program: display name, link_template: URL with {affiliate_id} and {tool_slug} placeholders, label: link text shown on the page }. Keyword match is case-insensitive over entry title/tags/description.",
+  "programs": [
+    {
+      "keyword": "hosting",
+      "name": "Hostinger",
+      "link_template": "https://www.hostinger.com/?affiliate_id={affiliate_id}",
+      "label": "Get {tool_name} running — hosting special",
+      "affiliate_id": "HOSTING_AFFILIATE_ID"
+    },
+    {
+      "keyword": "design",
+      "name": "Canva Pro",
+      "link_template": "https://www.canva.com/join/super-affiliate?affiliate={affiliate_id}",
+      "label": "Try Canva Pro free for 30 days",
+      "affiliate_id": "CANVA_AFFILIATE_ID"
+    },
+    {
+      "keyword": "writing",
+      "name": "Jasper",
+      "link_template": "https://www.jasper.ai/affiliates?ref={affiliate_id}",
+      "label": "Write 2x faster with Jasper",
+      "affiliate_id": "JASPER_AFFILIATE_ID"
+    },
+    {
+      "keyword": "api",
+      "name": "RapidAPI",
+      "link_template": "https://rapidapi.com/affiliates?ref={affiliate_id}",
+      "label": "Publish this API & earn on RapidAPI",
+      "affiliate_id": "RAPIDAPI_AFFILIATE_ID"
+    },
+    {
+      "keyword": "image generation",
+      "name": "Midjourney",
+      "link_template": "https://www.midjourney.com/?aff={affiliate_id}",
+      "label": "Start creating with Midjourney",
+      "affiliate_id": "MIDJOURNEY_AFFILIATE_ID"
+    }
+  ],
+  "recurring": [
+    {
+      "name": "Web hosting",
+      "programs": ["Hostinger"],
+      "placement": "sidebar_cta"
+    },
+    {
+      "name": "AI writing tools",
+      "programs": ["Jasper"],
+      "placement": "entry_page_under_description"
+    }
+  ]
+}
