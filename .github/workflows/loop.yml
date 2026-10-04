@@ -44,7 +44,7 @@ jobs:
 
       - name: Build social post batches
         if: always()
-        run: python publisher.py --social-only
+        run: python publisher.py 
         env:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
