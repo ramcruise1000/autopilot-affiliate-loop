@@ -6,7 +6,7 @@
 # ----- SITE / LOOP identity ---------------------------------------------------
 site:
   name: "AI Tools Curated"            # site headline
-  domain: "yourdomain.github.io"       # will host on GitHub Pages at <user>.github.io or CNAME
+  domain: "ramcruise1000.github.io"       # will host on GitHub Pages at <user>.github.io or CNAME
   language: en
   timezone: UTC
 
