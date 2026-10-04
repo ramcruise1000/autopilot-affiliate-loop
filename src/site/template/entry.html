@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}{{ site.name }} — {{ entry.title }}{% endblock %}
+{% block content %}
+<article>
+<h1>{{ entry.title }}</h1>
+<div class="entry-meta">
+<a href="{{ entry.url }}" rel="nofollow">Visit official website</a>
+· <span>Added from open-source list by GitHub users</span>
+</div>
+<p style="font-size:15px;color:#111827">{{ entry.description }}</p>
+
+<section card>
+<h3 style="margin-top:0">💰 Affiliate offers for {{ entry.title }}</h3>
+<p style="color:#4b5563;font-size:14px;margin-bottom:10px;">Support this free resource index — here are legitimate paid/upgrade options and discounts for this tool.</p>
+{% if entry.affiliate.program %}
+<p><a href="{{ entry.affiliate.offer_url }}" rel="nofollow" class="cta" style="display:inline-block">{{ entry.affiliate.label }}</a></p>
+<p style="font-size:12px;color:#6b7280"><em>Program: {{ entry.affiliate.program }} · We may earn a commission at no extra cost to you.</em></p>
+{% else %}
+<p style="color:#6b7280;font-size:14px">No special offers available at the moment — check the official site or our <a href="/rss.xml">daily digest</a>.</p>
+{% endif %}
+</section>
+
+<section card style="margin-top:16px">
+<h3>Where this entry comes from</h3>
+<p style="font-size:13px;color:#4b5563">Catalogued as part of the automated loop from community-maintained curated lists. See <a href="/attribution.html">source attribution &amp; licenses</a>.</p>
+</section>
+</article>
+{% endblock %}

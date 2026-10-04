@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>{{ site.name }} — new resources</title>
+<link rel="alternate" href="{{ site.domain.rstrip('/') }}/rss.xml"/>
+<updated>{{ now.isoformat() }}Z</updated>
+<author><name>{{ site.name }}</name></author>
+{% for e in entries %}
+<entry>
+<title>{{ e.title }}</title>
+<link rel="alternate" href="{{ e.url }}"/>
+<id>{{ e.url }}</id>
+<updated>{{ now.isoformat() }}Z</updated>
+<summary>{{ e.description }}</summary>
+</entry>
+{% endfor %}
+</feed>

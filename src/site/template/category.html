@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}{{ site.name }} — {{ category }}{% endblock %}
+{% block content %}
+<h1>{{ category }}</h1>
+<p style="color:var(--muted)">{{ count }} resources in this category.</p>
+<div class="card-grid">
+{% for e in entries %}
+<card><a href="/entries/{{ e.slug }}.html"><div class="entry-title">{{ e.title }}</div></a>
+<div class="entry-meta"><a href="{{ e.url }}" rel="nofollow">{{ e.url[:45] }}{% if e.url|length>45 %}...{% endif %}</a>
+{% if e.affiliate.program %}<span class="badge">offers by {{ e.affiliate.program }}</span>{% endif %}</div>
+<p style="font-size:13px;color:#374151;margin:6px 0 0;">{{ e.description }}</p>
+<a href="/entries/{{ e.slug }}.html" class="cta" style="font-size:12px;margin-top:8px">View details</a></card>
+{% endfor %}
+</div>
+<p style="margin-top:20px"><a href="/">← Back to home</a></p>
+{% endblock %}

@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}{{ site.name }} — {{ count }} curated resources{% endblock %}
+{% block content %}
+<h1>{{ site.name }}</h1>
+<p style="color:var(--muted)">A hand-maintained index of the best free and paid tools, APIs, and resources — updated automatically from open-source community lists. <a href="/rss.xml">RSS</a> available.</p>
+
+<section><h2>Categories</h2><div class="card-grid">
+{% for cat, items in categories %}<a href="/categories/{{ cat|lower|replace(' ','-')|replace('.','-') }}.html" card style="text-align:center;display:block;padding:16px"><span class="badge">{{ items|length }}</span><br><strong>{{ cat }}</strong></a>{% endfor %}
+</div></section>
+
+<section style="margin-top:24px"><h2>Featured right now</h2><p style="color:var(--muted)">{{ count }} total resources catalogued.</p>
+<div class="card-grid">
+{% for e in entries %}
+<card><a href="/entries/{{ e.slug }}.html"><div class="entry-title">{{ e.title }}</div></a>
+<div class="entry-meta"><a href="{{ e.url }}" rel="nofollow">{{ e.url[:45] }}{% if e.url|length>45 %}...{% endif %}</a>
+{% if e.affiliate.program %}<span class="badge">offers by {{ e.affiliate.program }}</span>{% endif %}</div>
+<p style="font-size:13px;color:#374151;margin:6px 0 0;">{{ e.description }}</p>
+<a href="/entries/{{ e.slug }}.html" class="cta" style="font-size:12px;margin-top:8px">View details</a></card>
+{% endfor %}
+</div></section>
+{% endblock %}
