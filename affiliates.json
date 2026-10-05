@@ -49,4 +49,27 @@
       "placement": "entry_page_under_description"
     }
   ]
+},
+{
+  "description": "Keyword to affiliate program rules",
+  "programs": [
+    {
+      "keyword": "funnel",
+      "name": "Systeme.io",
+      "link_template": "https://systeme.io/?sa=sa00453121549b7e127db7a50582dde596937874e9",
+      "label": "Get Systeme.io Free"
+    },
+    {
+      "keyword": "email marketing",
+      "name": "Systeme.io",
+      "link_template": "https://systeme.io/?sa=sa00453121549b7e127db7a50582dde596937874e9",
+      "label": "Start Email Marketing"
+    },
+    {
+      "keyword": "all-in-one",
+      "name": "Systeme.io",
+      "link_template": "https://systeme.io/?sa=sa00453121549b7e127db7a50582dde596937874e9",
+      "label": "Try All-in-One Platform"
+    }
+  ]
 }
