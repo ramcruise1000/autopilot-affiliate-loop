@@ -38,7 +38,7 @@ jobs:
           git config --global user.email "loop@example.com"
           git config --global user.name "loop bot"
           git checkout -b gh-pages || git checkout gh-pages
-          git add ./site
+          git add -f ./site/
           git commit -m "chore: rebuild static site" --allow-empty || true
           git push -f origin gh-pages
 
