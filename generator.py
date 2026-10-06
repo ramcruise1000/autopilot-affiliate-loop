@@ -124,8 +124,10 @@ def build_sitemap(entries, meta):
         if safe:
             urls.append(f"/entries/{safe}.html")
     html = ENV.from_string(
-        '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-        '{% for u in urls %}<url><loc>{site.domain.rstrip("/")}}/{{u.lstrip("/")}}</loc></url>{% endfor %}\n</urlset>'
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        '{% for u in urls %}<url><loc>https://{{ site.domain.rstrip("/") }}/{{ u.lstrip("/") }}</loc></url>\n{% endfor %}'
+        '</urlset>'
     ).render(urls=urls, site=meta["site"])
     Path(meta["output_site"]).joinpath("sitemap.xml").write_text(html)
     print("sitemap.xml written")
