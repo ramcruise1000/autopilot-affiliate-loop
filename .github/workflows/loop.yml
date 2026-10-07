@@ -1,3 +1,36 @@
+name: loop
+
+on:
+  schedule:
+    - cron: "0 6 * * 0"  # Every Sunday at 06:00 UTC
+  workflow_dispatch:     # Allows you to run it manually anytime
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Ingest sources
+        run: python ingest.py
+
+      - name: Generate site
+        run: python generator.py
+
       - name: Publish to GitHub Pages
         run: |
           echo "=== Verifying site files exist ==="
@@ -22,3 +55,11 @@
           git commit -m "chore: rebuild static site"
           git push -f origin gh-pages
           echo "=== Successfully published to gh-pages root ==="
+
+      - name: Build social post batches
+        if: always()
+        run: python publisher.py
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
