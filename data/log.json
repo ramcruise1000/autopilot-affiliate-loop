@@ -1,0 +1,14 @@
+{
+ "started": null,
+ "ended": null,
+ "steps": [
+  {
+   "level": "INFO",
+   "msg": "GitHub source loaded: eudk/awesome-ai-tools@main license=cc0-1.0 topics=0"
+  },
+  {
+   "level": "INFO",
+   "msg": "Ingest complete: 300 unique entries from 1 sources; offers attached"
+  }
+ ]
+}

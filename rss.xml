@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>AI Tools Curated — new resources</title>
+<link rel="alternate" href="ramcruise1000.github.io/rss.xml"/>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<author><name>AI Tools Curated</name></author>
+<entry>
+<title>🧠 Major AI Platforms &amp; Model Ecosystems</title>
+<link rel="alternate" href="#-major-ai-platforms--model-ecosystems"/>
+<id>#-major-ai-platforms--model-ecosystems</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>| Overview of leading AI platforms and model ecosystems including OpenAI, Google, Anthropic, Meta, Mistral, and xAI. |.</summary>
+</entry>
+<entry>
+<title>🪦 AI Graveyard</title>
+<link rel="alternate" href="./AI_GRAVEYARD.md"/>
+<id>./AI_GRAVEYARD.md</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>| Discontinued, retired, or replaced AI tools and models |.</summary>
+</entry>
+<entry>
+<title>Balabolka</title>
+<link rel="alternate" href="http://www.cross-plus-a.com/balabolka.htm"/>
+<id>http://www.cross-plus-a.com/balabolka.htm</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>Free text-to-speech software.</summary>
+</entry>
+<entry>
+<title>Acapela Group</title>
+<link rel="alternate" href="https://www.acapela-group.com"/>
+<id>https://www.acapela-group.com</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>Personalized digital voices.</summary>
+</entry>
+<entry>
+<title>AceTagGen</title>
+<link rel="alternate" href="https://acetaggen.com"/>
+<id>https://acetaggen.com</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>Free prompt builder for Suno AI. Structured dropdowns for mood, genre, instruments, and SFX that respect Suno&#39;s 200-char Style limit. Includes example library a...</summary>
+</entry>
+<entry>
+<title>Adapt or Die</title>
+<link rel="alternate" href="https://adaptordie.io"/>
+<id>https://adaptordie.io</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>** - (UK) Independent editorial covering agentic commerce, AI agents in ecommerce, and digital transformation. Sharp analysis, no AI slop.</summary>
+</entry>
+<entry>
+<title>Adobe&#39;s Enhance Speech</title>
+<link rel="alternate" href="https://www.adobe.com"/>
+<id>https://www.adobe.com</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>AI-powered tool for improving speech quality.</summary>
+</entry>
+<entry>
+<title>Adobe Photoshop Camera</title>
+<link rel="alternate" href="https://www.adobe.com/products/photoshopcamera.html"/>
+<id>https://www.adobe.com/products/photoshopcamera.html</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>AI-driven photography app.</summary>
+</entry>
+<entry>
+<title>TouchRetouch</title>
+<link rel="alternate" href="https://www.adva-soft.com/touchretouch/"/>
+<id>https://www.adva-soft.com/touchretouch/</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>Remove objects from photos.</summary>
+</entry>
+<entry>
+<title>AgentDesk</title>
+<link rel="alternate" href="https://agentdesk-inky.vercel.app"/>
+<id>https://agentdesk-inky.vercel.app</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>Pre-built AI agents for professional services firms. Automates client intake, proposal generation, and executive reports using Claude.</summary>
+</entry>
+<entry>
+<title>Agentprobe</title>
+<link rel="alternate" href="https://agentprobe.fly.dev/"/>
+<id>https://agentprobe.fly.dev/</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>** — Free agentic commerce readiness scorer. Probes any seller URL across 13 signals (llms.txt, OpenAPI spec, MCP endpoint, catalog/quote/checkout APIs, payment...</summary>
+</entry>
+<entry>
+<title>AgentReady</title>
+<link rel="alternate" href="https://agentready.site"/>
+<id>https://agentready.site</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>** - AI readiness scanner that scores any website on 8 factors (llms.txt, ai.txt, schema markup, MCP protocol, bot accessibility, and more). Provides actionable...</summary>
+</entry>
+<entry>
+<title>Agility Robotics Digit</title>
+<link rel="alternate" href="https://www.agilityrobotics.com/digit"/>
+<id>https://www.agilityrobotics.com/digit</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>** - A humanoid bipedal robot optimized for logistical tasks, such as warehouse support and last-mile delivery.</summary>
+</entry>
+<entry>
+<title>AI Gahaku</title>
+<link rel="alternate" href="https://ai-art.tokyo/en"/>
+<id>https://ai-art.tokyo/en</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>AI artist generating paintings from photos.</summary>
+</entry>
+<entry>
+<title>AI Picasso</title>
+<link rel="alternate" href="https://ai-picasso.com"/>
+<id>https://ai-picasso.com</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>Generates Picasso-style artworks using AI.</summary>
+</entry>
+<entry>
+<title>AIWatch</title>
+<link rel="alternate" href="https://ai-watch.dev"/>
+<id>https://ai-watch.dev</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>Open-source real-time status dashboard for 30 AI services (Claude, OpenAI, Gemini, Mistral, Groq, and more). AI-powered incident analysis via hybrid Gemma 4 + C...</summary>
+</entry>
+<entry>
+<title>LLaMA 2</title>
+<link rel="alternate" href="https://ai.facebook.com/llama/"/>
+<id>https://ai.facebook.com/llama/</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>** - Meta’s open-source language model that can be run locally on powerful hardware setups. LLaMA 2 is designed for researchers and developers who need a custom...</summary>
+</entry>
+<entry>
+<title>Google AI</title>
+<link rel="alternate" href="https://ai.google/"/>
+<id>https://ai.google/</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>Google&#39;s AI Research and Tools.</summary>
+</entry>
+<entry>
+<title>Meta LLaMA - Large Language Models</title>
+<link rel="alternate" href="https://ai.meta.com/llama/"/>
+<id>https://ai.meta.com/llama/</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>A powerful platform for local language model analysis and applications.</summary>
+</entry>
+<entry>
+<title>AI Art ES</title>
+<link rel="alternate" href="https://aiartes.com/reference"/>
+<id>https://aiartes.com/reference</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>Platform for exploring AI-generated art and references.</summary>
+</entry>
+<entry>
+<title>AI Dev Jobs</title>
+<link rel="alternate" href="https://aidevboard.com"/>
+<id>https://aidevboard.com</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>** — Structured data on 8,400+ active AI/ML engineering jobs from 580 ATS sources (Anthropic, OpenAI, Meta FAIR, DeepMind, etc.). Free REST API + MCP server at ...</summary>
+</entry>
+<entry>
+<title>AI Dictation</title>
+<link rel="alternate" href="https://aidictation.com/"/>
+<id>https://aidictation.com/</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>macOS speech-to-text app with auto-switching offline/online recognition and AI-based grammar and filler-word cleanup.</summary>
+</entry>
+<entry>
+<title>AI Engineer Pack</title>
+<link rel="alternate" href="https://www.aiengineerpack.com/"/>
+<id>https://www.aiengineerpack.com/</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>**: A curated bundle of offers from various AI companies, which has previously included extended free trials for services like ElevenLabs and Perplexity Pro.</summary>
+</entry>
+<entry>
+<title>AI for Biz</title>
+<link rel="alternate" href="https://aiforbiz.co/"/>
+<id>https://aiforbiz.co/</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>Helps find AI use cases for businesses.</summary>
+</entry>
+<entry>
+<title>AI for Database</title>
+<link rel="alternate" href="https://aifordatabase.com"/>
+<id>https://aifordatabase.com</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>– Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated w...</summary>
+</entry>
+<entry>
+<title>AI Logo Generator</title>
+<link rel="alternate" href="https://www.ailogogenerator.org"/>
+<id>https://www.ailogogenerator.org</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>Free online AI logo creator that generates professional company, business, and brand logos.</summary>
+</entry>
+<entry>
+<title>AI Mastering</title>
+<link rel="alternate" href="https://aimastering.com"/>
+<id>https://aimastering.com</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>AI-powered audio mastering.</summary>
+</entry>
+<entry>
+<title>aimatchpro</title>
+<link rel="alternate" href="https://aimatch.pro/"/>
+<id>https://aimatch.pro/</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>Platform to search for Aitools.</summary>
+</entry>
+<entry>
+<title>AI Music</title>
+<link rel="alternate" href="https://aimusic.co.uk"/>
+<id>https://aimusic.co.uk</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>AI-driven adaptive music technology.</summary>
+</entry>
+<entry>
+<title>AI Music Generator</title>
+<link rel="alternate" href="https://www.aimusicgenerator.com"/>
+<id>https://www.aimusicgenerator.com</id>
+<updated>2026-10-09T14:06:32.229540+00:00Z</updated>
+<summary>Generate music tracks with AI.</summary>
+</entry>
+</feed>

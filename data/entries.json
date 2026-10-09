@@ -1,0 +1,3618 @@
+{
+ "meta": {
+  "generated_at": "2026-10-09T14:06:32.082700Z",
+  "sources": [
+   {
+    "owner": "eudk",
+    "repo": "awesome-ai-tools",
+    "branch": "main",
+    "type": "github",
+    "license": "cc0-1.0",
+    "topics": []
+   }
+  ],
+  "offers_loaded": 3
+ },
+ "entries": [
+  {
+   "title": "\ud83e\udde0 Major AI Platforms & Model Ecosystems",
+   "url": "#-major-ai-platforms--model-ecosystems",
+   "description": "| Overview of leading AI platforms and model ecosystems including OpenAI, Google, Anthropic, Meta, Mistral, and xAI. |",
+   "category": "\ud83d\udd17 Navigation Table",
+   "affiliate": {
+    "program": null,
+    "offer_url": "#-major-ai-platforms--model-ecosystems",
+    "label": "Visit official site"
+   },
+   "slug": "major-ai-platforms-model-ecosystems"
+  },
+  {
+   "title": "\ud83e\udea6 AI Graveyard",
+   "url": "./AI_GRAVEYARD.md",
+   "description": "| Discontinued, retired, or replaced AI tools and models |",
+   "category": "\ud83d\udd17 Navigation Table",
+   "affiliate": {
+    "program": null,
+    "offer_url": "./AI_GRAVEYARD.md",
+    "label": "Visit official site"
+   },
+   "slug": "ai-graveyard"
+  },
+  {
+   "title": "Balabolka",
+   "url": "http://www.cross-plus-a.com/balabolka.htm",
+   "description": "Free text-to-speech software.",
+   "category": "Voice-Related AI Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "http://www.cross-plus-a.com/balabolka.htm",
+    "label": "Visit official site"
+   },
+   "slug": "balabolka"
+  },
+  {
+   "title": "Acapela Group",
+   "url": "https://www.acapela-group.com",
+   "description": "Personalized digital voices.",
+   "category": "Voice-Related AI Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.acapela-group.com",
+    "label": "Visit official site"
+   },
+   "slug": "acapela-group"
+  },
+  {
+   "title": "AceTagGen",
+   "url": "https://acetaggen.com",
+   "description": "Free prompt builder for Suno AI. Structured dropdowns for mood, genre, instruments, and SFX that respect Suno's 200-char Style limit. Includes example library and quality score.",
+   "category": "\u266b Music Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://acetaggen.com",
+    "label": "Visit official site"
+   },
+   "slug": "acetaggen"
+  },
+  {
+   "title": "Adapt or Die",
+   "url": "https://adaptordie.io",
+   "description": "** - (UK) Independent editorial covering agentic commerce, AI agents in ecommerce, and digital transformation. Sharp analysis, no AI slop.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://adaptordie.io",
+    "label": "Visit official site"
+   },
+   "slug": "adapt-or-die"
+  },
+  {
+   "title": "Adobe's Enhance Speech",
+   "url": "https://www.adobe.com",
+   "description": "AI-powered tool for improving speech quality.",
+   "category": "Media Enhancement AI Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.adobe.com",
+    "label": "Visit official site"
+   },
+   "slug": "adobe-s-enhance-speech"
+  },
+  {
+   "title": "Adobe Photoshop Camera",
+   "url": "https://www.adobe.com/products/photoshopcamera.html",
+   "description": "AI-driven photography app.",
+   "category": "AI Tools for Photo Editing",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.adobe.com/products/photoshopcamera.html",
+    "label": "Visit official site"
+   },
+   "slug": "adobe-photoshop-camera"
+  },
+  {
+   "title": "TouchRetouch",
+   "url": "https://www.adva-soft.com/touchretouch/",
+   "description": "Remove objects from photos.",
+   "category": "AI Tools for Photo Editing",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.adva-soft.com/touchretouch/",
+    "label": "Visit official site"
+   },
+   "slug": "touchretouch"
+  },
+  {
+   "title": "AgentDesk",
+   "url": "https://agentdesk-inky.vercel.app",
+   "description": "Pre-built AI agents for professional services firms. Automates client intake, proposal generation, and executive reports using Claude.",
+   "category": "\ud83c\udd95 Additional AI and Productivity Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://agentdesk-inky.vercel.app",
+    "label": "Visit official site"
+   },
+   "slug": "agentdesk"
+  },
+  {
+   "title": "Agentprobe",
+   "url": "https://agentprobe.fly.dev/",
+   "description": "** \u2014 Free agentic commerce readiness scorer. Probes any seller URL across 13 signals (llms.txt, OpenAPI spec, MCP endpoint, catalog/quote/checkout APIs, payment rails, fulfillment proof) and returns a 0\u2013110 score. Tells AI shopping agents which storefronts they can actually transact with. CERTIFIED badge available.",
+   "category": "AI Agent Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://agentprobe.fly.dev/",
+    "label": "Visit official site"
+   },
+   "slug": "agentprobe"
+  },
+  {
+   "title": "AgentReady",
+   "url": "https://agentready.site",
+   "description": "** - AI readiness scanner that scores any website on 8 factors (llms.txt, ai.txt, schema markup, MCP protocol, bot accessibility, and more). Provides actionable recommendations, industry benchmarks, and a free public API for AI agent compatibility scoring.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://agentready.site",
+    "label": "Visit official site"
+   },
+   "slug": "agentready"
+  },
+  {
+   "title": "Agility Robotics Digit",
+   "url": "https://www.agilityrobotics.com/digit",
+   "description": "** - A humanoid bipedal robot optimized for logistical tasks, such as warehouse support and last-mile delivery.",
+   "category": "\ud83e\udd16 AI Driven Robots and Robotic Dogs",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.agilityrobotics.com/digit",
+    "label": "Visit official site"
+   },
+   "slug": "agility-robotics-digit"
+  },
+  {
+   "title": "AI Gahaku",
+   "url": "https://ai-art.tokyo/en",
+   "description": "AI artist generating paintings from photos.",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://ai-art.tokyo/en",
+    "label": "Visit official site"
+   },
+   "slug": "ai-gahaku"
+  },
+  {
+   "title": "AI Picasso",
+   "url": "https://ai-picasso.com",
+   "description": "Generates Picasso-style artworks using AI.",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://ai-picasso.com",
+    "label": "Visit official site"
+   },
+   "slug": "ai-picasso"
+  },
+  {
+   "title": "AIWatch",
+   "url": "https://ai-watch.dev",
+   "description": "Open-source real-time status dashboard for 30 AI services (Claude, OpenAI, Gemini, Mistral, Groq, and more). AI-powered incident analysis via hybrid Gemma 4 + Claude Sonnet, early detection vs official status pages, reliability scoring, Discord/Slack webhooks. Stack: Cloudflare Workers + KV + Workers AI.",
+   "category": "LLM Ops",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://ai-watch.dev",
+    "label": "Visit official site"
+   },
+   "slug": "aiwatch"
+  },
+  {
+   "title": "LLaMA 2",
+   "url": "https://ai.facebook.com/llama/",
+   "description": "** - Meta\u2019s open-source language model that can be run locally on powerful hardware setups. LLaMA 2 is designed for researchers and developers who need a customizable, open-source solution for tasks like natural language processing, content generation, and research.",
+   "category": "\ud83d\udcbb Software for Large Language Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://ai.facebook.com/llama/",
+    "label": "Visit official site"
+   },
+   "slug": "llama-2"
+  },
+  {
+   "title": "Google AI",
+   "url": "https://ai.google/",
+   "description": "Google's AI Research and Tools",
+   "category": "\ud83c\udd95 Additional AI and Productivity Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://ai.google/",
+    "label": "Visit official site"
+   },
+   "slug": "google-ai"
+  },
+  {
+   "title": "Meta LLaMA - Large Language Models",
+   "url": "https://ai.meta.com/llama/",
+   "description": "A powerful platform for local language model analysis and applications.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://ai.meta.com/llama/",
+    "label": "Visit official site"
+   },
+   "slug": "meta-llama-large-language-models"
+  },
+  {
+   "title": "AI Art ES",
+   "url": "https://aiartes.com/reference",
+   "description": "Platform for exploring AI-generated art and references.",
+   "category": "Tools for better image prompting",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://aiartes.com/reference",
+    "label": "Visit official site"
+   },
+   "slug": "ai-art-es"
+  },
+  {
+   "title": "AI Dev Jobs",
+   "url": "https://aidevboard.com",
+   "description": "** \u2014 Structured data on 8,400+ active AI/ML engineering jobs from 580 ATS sources (Anthropic, OpenAI, Meta FAIR, DeepMind, etc.). Free REST API + MCP server at `aidevboard.com/mcp`. Useful for agents doing AI job market research or helping users find roles.",
+   "category": "AI Agent Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://aidevboard.com",
+    "label": "Visit official site"
+   },
+   "slug": "ai-dev-jobs"
+  },
+  {
+   "title": "AI Dictation",
+   "url": "https://aidictation.com/",
+   "description": "macOS speech-to-text app with auto-switching offline/online recognition and AI-based grammar and filler-word cleanup.",
+   "category": "\ud83c\udd95 Additional AI and Productivity Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://aidictation.com/",
+    "label": "Visit official site"
+   },
+   "slug": "ai-dictation"
+  },
+  {
+   "title": "AI Engineer Pack",
+   "url": "https://www.aiengineerpack.com/",
+   "description": "**: A curated bundle of offers from various AI companies, which has previously included extended free trials for services like ElevenLabs and Perplexity Pro.",
+   "category": "\ud83c\udf93 Free Stuff for Students & Educators",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.aiengineerpack.com/",
+    "label": "Visit official site"
+   },
+   "slug": "ai-engineer-pack"
+  },
+  {
+   "title": "AI for Biz",
+   "url": "https://aiforbiz.co/",
+   "description": "Helps find AI use cases for businesses.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://aiforbiz.co/",
+    "label": "Visit official site"
+   },
+   "slug": "ai-for-biz"
+  },
+  {
+   "title": "AI for Database",
+   "url": "https://aifordatabase.com",
+   "description": "\u2013 Connect to any database and interact with it in plain English. No SQL needed \u2014 get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.",
+   "category": "\ud83c\udd95 Additional AI and Productivity Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://aifordatabase.com",
+    "label": "Visit official site"
+   },
+   "slug": "ai-for-database"
+  },
+  {
+   "title": "AI Logo Generator",
+   "url": "https://www.ailogogenerator.org",
+   "description": "Free online AI logo creator that generates professional company, business, and brand logos.",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.ailogogenerator.org",
+    "label": "Visit official site"
+   },
+   "slug": "ai-logo-generator"
+  },
+  {
+   "title": "AI Mastering",
+   "url": "https://aimastering.com",
+   "description": "AI-powered audio mastering.",
+   "category": "Sound Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://aimastering.com",
+    "label": "Visit official site"
+   },
+   "slug": "ai-mastering"
+  },
+  {
+   "title": "aimatchpro",
+   "url": "https://aimatch.pro/",
+   "description": "Platform to search for Aitools",
+   "category": "\ud83c\udd95 Additional AI and Productivity Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://aimatch.pro/",
+    "label": "Visit official site"
+   },
+   "slug": "aimatchpro"
+  },
+  {
+   "title": "AI Music",
+   "url": "https://aimusic.co.uk",
+   "description": "AI-driven adaptive music technology.",
+   "category": "Sound Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://aimusic.co.uk",
+    "label": "Visit official site"
+   },
+   "slug": "ai-music"
+  },
+  {
+   "title": "AI Music Generator",
+   "url": "https://www.aimusicgenerator.com",
+   "description": "Generate music tracks with AI.",
+   "category": "Sound Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.aimusicgenerator.com",
+    "label": "Visit official site"
+   },
+   "slug": "ai-music-generator"
+  },
+  {
+   "title": "AI or Not",
+   "url": "https://www.aiornot.com/",
+   "description": "** - An AI-driven tool that helps users determine whether a given piece of content was created by a human or an AI, enhancing transparency in content creation.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.aiornot.com/",
+    "label": "Visit official site"
+   },
+   "slug": "ai-or-not"
+  },
+  {
+   "title": "AI Student Pack",
+   "url": "https://aistudentpack.com/waitlist",
+   "description": "**: A new upcoming pack focused on providing students with the essential AI tools for their education. Currently on a waitlist.",
+   "category": "\ud83c\udf93 Free Stuff for Students & Educators",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://aistudentpack.com/waitlist",
+    "label": "Visit official site"
+   },
+   "slug": "ai-student-pack"
+  },
+  {
+   "title": "Aito.ai",
+   "url": "https://aito.ai",
+   "description": "AI database and predictive APIs.",
+   "category": "Sites with API Integration",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://aito.ai",
+    "label": "Visit official site"
+   },
+   "slug": "aito-ai"
+  },
+  {
+   "title": "AIVA",
+   "url": "https://www.aiva.ai",
+   "description": "AI music composition.",
+   "category": "Sound Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.aiva.ai",
+    "label": "Visit official site"
+   },
+   "slug": "aiva"
+  },
+  {
+   "title": "AI Video Creator",
+   "url": "https://www.aivideocreator.com",
+   "description": "Create videos with AI.",
+   "category": "Video Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.aivideocreator.com",
+    "label": "Visit official site"
+   },
+   "slug": "ai-video-creator"
+  },
+  {
+   "title": "AI Virtual Staging",
+   "url": "https://www.aivirtualstaging.net/",
+   "description": "AI powered virtual staging for real estate listings",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.aivirtualstaging.net/",
+    "label": "Visit official site"
+   },
+   "slug": "ai-virtual-staging"
+  },
+  {
+   "title": "Algorithmia AI Model Deployment",
+   "url": "https://algorithmia.com/",
+   "description": "Platform for scalable AI and machine learning model deployment.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://algorithmia.com/",
+    "label": "Visit official site"
+   },
+   "slug": "algorithmia-ai-model-deployment"
+  },
+  {
+   "title": "Qwen3.5-Omni",
+   "url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+   "description": "** \u2013 Newer multimodal / realtime model line, with preview models temporarily free for model invocation",
+   "category": "\ud83c\udde8\ud83c\uddf3 Leading Chinese AI Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "label": "Visit official site"
+   },
+   "slug": "qwen3-5-omni"
+  },
+  {
+   "title": "qwen3.6-plus",
+   "url": "https://www.alibabacloud.com/help/en/model-studio/models",
+   "description": "** \u2013 Current recommended flagship-style model with 1M context, tool use, coding, and multimodal support",
+   "category": "\ud83c\udde8\ud83c\uddf3 Leading Chinese AI Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.alibabacloud.com/help/en/model-studio/models",
+    "label": "Visit official site"
+   },
+   "slug": "qwen3-6-plus"
+  },
+  {
+   "title": "Amadeus Code",
+   "url": "https://www.amadeuscode.com",
+   "description": "AI songwriting assistant.",
+   "category": "Sound Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.amadeuscode.com",
+    "label": "Visit official site"
+   },
+   "slug": "amadeus-code"
+  },
+  {
+   "title": "Amper Music",
+   "url": "https://www.ampermusic.com",
+   "description": "AI music creator.",
+   "category": "Sound Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.ampermusic.com",
+    "label": "Visit official site"
+   },
+   "slug": "amper-music"
+  },
+  {
+   "title": "AI Video Maker",
+   "url": "https://www.animaker.com/ai-video-maker",
+   "description": "Animaker\u2019s AI video maker.",
+   "category": "Video Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.animaker.com/ai-video-maker",
+    "label": "Visit official site"
+   },
+   "slug": "ai-video-maker"
+  },
+  {
+   "title": "Ano.chat",
+   "url": "https://ano.chat",
+   "description": "** \u2014 Team chat for AI-native teams. A Slack alternative that runs Claude Code natively in a shell beneath your channels. Launch it directly in any thread with shared context.",
+   "category": "Other AI Agents",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://ano.chat",
+    "label": "Visit official site"
+   },
+   "slug": "ano-chat"
+  },
+  {
+   "title": "AnveVoice",
+   "url": "https://anvevoice.app",
+   "description": "Voice AI agent for websites with agentic DOM actions \u2014 navigates pages, fills forms, clicks buttons autonomously. 50+ languages, <700ms latency, one-line embed. Free tier.",
+   "category": "Voice-Related AI Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://anvevoice.app",
+    "label": "Visit official site"
+   },
+   "slug": "anvevoice"
+  },
+  {
+   "title": "ANYbotics ANYmal",
+   "url": "https://www.anybotics.com/anymal",
+   "description": "** - A quadruped robot from ANYbotics designed for inspection tasks in industrial environments, including oil, gas, and mining facilities.",
+   "category": "\ud83e\udd16 AI Driven Robots and Robotic Dogs",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.anybotics.com/anymal",
+    "label": "Visit official site"
+   },
+   "slug": "anybotics-anymal"
+  },
+  {
+   "title": "AnySlide",
+   "url": "https://anyslide.app",
+   "description": "** - AI slide deck generator with two engines: HTML inline-editable web slides and gpt-image-2 full-image rendering with native Chinese, Japanese, and Korean text support. 38 templates, 8 niche presets, 60 free credits at signup.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://anyslide.app",
+    "label": "Visit official site"
+   },
+   "slug": "anyslide"
+  },
+  {
+   "title": "deepseek-v4-flash",
+   "url": "https://api-docs.deepseek.com/quick_start/pricing",
+   "description": "** \u2013 cheaper V4 model, supports thinking and non-thinking modes",
+   "category": "\ud83c\udde8\ud83c\uddf3 Leading Chinese AI Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "label": "Visit official site"
+   },
+   "slug": "deepseek-v4-flash"
+  },
+  {
+   "title": "Noonshot for Midjourney",
+   "url": "https://app.noonshot.com/midjourney",
+   "description": "Noonshot app with features for Midjourney.",
+   "category": "Tools for better image prompting",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://app.noonshot.com/midjourney",
+    "label": "Visit official site"
+   },
+   "slug": "noonshot-for-midjourney"
+  },
+  {
+   "title": "AirBrush",
+   "url": "https://appairbrush.com",
+   "description": "Easy photo editor.",
+   "category": "AI Tools for Photo Editing",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://appairbrush.com",
+    "label": "Visit official site"
+   },
+   "slug": "airbrush"
+  },
+  {
+   "title": "AppDeploy",
+   "url": "https://appdeploy.ai",
+   "description": "Describe what you want to build to your favorite AI assistant, such as ChatGPT, Claude, or any other MCP client. AppDeploy deploys it, handles the frontend and backend services, and gives you a live URL.",
+   "category": "AI-Powered Compilers and Code Assistants",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://appdeploy.ai",
+    "label": "Visit official site"
+   },
+   "slug": "appdeploy"
+  },
+  {
+   "title": "Artbreeder",
+   "url": "https://artbreeder.com",
+   "description": "Collaborative AI tool for creating and editing images.",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://artbreeder.com",
+    "label": "Visit official site"
+   },
+   "slug": "artbreeder"
+  },
+  {
+   "title": "AssemblyAI",
+   "url": "https://www.assemblyai.com/",
+   "description": "** - (USA) A leading API company for advanced Speech-to-Text, offering highly accurate transcription, summarization, and audio intelligence.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.assemblyai.com/",
+    "label": "Visit official site"
+   },
+   "slug": "assemblyai"
+  },
+  {
+   "title": "AssistantHunt",
+   "url": "https://assistanthunt.com",
+   "description": "Platform for finding AI-powered assistants.",
+   "category": "Custom GPT Sites",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://assistanthunt.com",
+    "label": "Visit official site"
+   },
+   "slug": "assistanthunt"
+  },
+  {
+   "title": "Audiolabs",
+   "url": "https://audiolabs-erlangen.de",
+   "description": "AI and sound research lab.",
+   "category": "Sound Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://audiolabs-erlangen.de",
+    "label": "Visit official site"
+   },
+   "slug": "audiolabs"
+  },
+  {
+   "title": "AuditZap",
+   "url": "https://auditzap.io/",
+   "description": "** - AI-powered website audit tool that runs 24 automated checks across SEO, performance, and site health, then generates code-level fix instructions ranked by revenue impact.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://auditzap.io/",
+    "label": "Visit official site"
+   },
+   "slug": "auditzap"
+  },
+  {
+   "title": "Aurcue",
+   "url": "https://www.aurcue.com",
+   "description": "AI personal aesthetic assistant that turns one photo into practical guidance for colors, outfits, hairstyles, glasses, and daily style decisions.",
+   "category": "\ud83c\udd95 Additional AI and Productivity Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.aurcue.com",
+    "label": "Visit official site"
+   },
+   "slug": "aurcue"
+  },
+  {
+   "title": "AVCLabs Video Enhancer AI",
+   "url": "https://www.avclabs.com/video-enhancer-ai",
+   "description": "Improve video quality using AI.",
+   "category": "Media Enhancement AI Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.avclabs.com/video-enhancer-ai",
+    "label": "Visit official site"
+   },
+   "slug": "avclabs-video-enhancer-ai"
+  },
+  {
+   "title": "AWS EC2",
+   "url": "https://aws.amazon.com/ec2/",
+   "description": "** - Amazon Web Services offers scalable cloud computing with GPU instances.",
+   "category": "\ud83d\udcbe GPU Rental Services for Large Language Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://aws.amazon.com/ec2/",
+    "label": "Visit official site"
+   },
+   "slug": "aws-ec2"
+  },
+  {
+   "title": "AWS Educate",
+   "url": "https://aws.amazon.com/education/awseducate/",
+   "description": "**: Amazon Web Services' program for students.",
+   "category": "\ud83c\udf93 Free Stuff for Students & Educators",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://aws.amazon.com/education/awseducate/",
+    "label": "Visit official site"
+   },
+   "slug": "aws-educate"
+  },
+  {
+   "title": "Amazon Web Services AI",
+   "url": "https://aws.amazon.com/machine-learning/ai-services/",
+   "description": "APIs for AWS's AI and machine learning services.",
+   "category": "Sites with API Integration",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://aws.amazon.com/machine-learning/ai-services/",
+    "label": "Visit official site"
+   },
+   "slug": "amazon-web-services-ai"
+  },
+  {
+   "title": "Microsoft Azure",
+   "url": "https://azure.microsoft.com/en-us/free/students",
+   "description": ": $100 in Azure credit** to use on AI/ML services, databases, and more, plus free access to dozens of services. No credit card required.",
+   "category": "\ud83c\udf93 Free Stuff for Students & Educators",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://azure.microsoft.com/en-us/free/students",
+    "label": "Visit official site"
+   },
+   "slug": "microsoft-azure"
+  },
+  {
+   "title": "Azure AI",
+   "url": "https://azure.microsoft.com/en-us/overview/ai-platform/",
+   "description": "Microsoft's comprehensive suite of AI tools and frameworks.",
+   "category": "\ud83e\udd16 Well known AI tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://azure.microsoft.com/en-us/overview/ai-platform/",
+    "label": "Visit official site"
+   },
+   "slug": "azure-ai"
+  },
+  {
+   "title": "Microsoft Azure Cognitive Services",
+   "url": "https://azure.microsoft.com/en-us/services/cognitive-services/",
+   "description": "AI APIs for speech, vision, and language.",
+   "category": "Sites with API Integration",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://azure.microsoft.com/en-us/services/cognitive-services/",
+    "label": "Visit official site"
+   },
+   "slug": "microsoft-azure-cognitive-services"
+  },
+  {
+   "title": "Microsoft Azure GPUs",
+   "url": "https://azure.microsoft.com/en-us/services/virtual-machines/gpu/",
+   "description": "** - Azure's GPU virtual machines for AI and deep learning.",
+   "category": "\ud83d\udcbe GPU Rental Services for Large Language Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://azure.microsoft.com/en-us/services/virtual-machines/gpu/",
+    "label": "Visit official site"
+   },
+   "slug": "microsoft-azure-gpus"
+  },
+  {
+   "title": "Beautiful.ai",
+   "url": "https://www.beautiful.ai/",
+   "description": "** - An AI-powered presentation tool that automates the design process, helping you create beautiful slides effortlessly.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.beautiful.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "beautiful-ai"
+  },
+  {
+   "title": "BeFunky",
+   "url": "https://www.befunky.com",
+   "description": "Photo editing and graphic design.",
+   "category": "AI Tools for Photo Editing",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.befunky.com",
+    "label": "Visit official site"
+   },
+   "slug": "befunky"
+  },
+  {
+   "title": "Berrry",
+   "url": "https://berrry.app",
+   "description": "AI-powered platform that transforms Twitter posts and Reddit content into functional web applications using code generation.",
+   "category": "AI-Powered Compilers and Code Assistants",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://berrry.app",
+    "label": "Visit official site"
+   },
+   "slug": "berrry"
+  },
+  {
+   "title": "Bespoke Sounds",
+   "url": "https://bespokesound.co",
+   "description": "Custom AI music solutions.",
+   "category": "Sound Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://bespokesound.co",
+    "label": "Visit official site"
+   },
+   "slug": "bespoke-sounds"
+  },
+  {
+   "title": "BestAIFor.com",
+   "url": "https://bestaifor.com",
+   "description": "** - A curated directory of the best AI tools and apps.",
+   "category": "AI Tool Resources & Directories",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://bestaifor.com",
+    "label": "Visit official site"
+   },
+   "slug": "bestaifor-com"
+  },
+  {
+   "title": "bestAIpacks",
+   "url": "https://bestaipacks.com",
+   "description": "Curated directory of AI tools by category with hand-reviewed picks and pricing.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://bestaipacks.com",
+    "label": "Visit official site"
+   },
+   "slug": "bestaipacks"
+  },
+  {
+   "title": "Tome AI",
+   "url": "https://beta.tome.app/",
+   "description": "** - AI-powered storytelling tool that helps in creating dynamic narratives with text, images, and video integrations.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://beta.tome.app/",
+    "label": "Visit official site"
+   },
+   "slug": "tome-ai"
+  },
+  {
+   "title": "Bigjpg",
+   "url": "https://bigjpg.com",
+   "description": "AI image upscaling.",
+   "category": "Media Enhancement AI Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://bigjpg.com",
+    "label": "Visit official site"
+   },
+   "slug": "bigjpg"
+  },
+  {
+   "title": "BigModel",
+   "url": "https://bigmodel.cn/",
+   "description": "** \u2013 China API / platform",
+   "category": "\ud83c\udde8\ud83c\uddf3 Leading Chinese AI Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://bigmodel.cn/",
+    "label": "Visit official site"
+   },
+   "slug": "bigmodel"
+  },
+  {
+   "title": "BING browser",
+   "url": "https://www.bing.com/",
+   "description": "Uses GPT-4 and DALLE for free image generation (built in into the browser)",
+   "category": "\ud83e\udd16 Well known AI tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.bing.com/",
+    "label": "Visit official site"
+   },
+   "slug": "bing-browser"
+  },
+  {
+   "title": "Davinci Resolve",
+   "url": "https://www.blackmagicdesign.com/products/davinciresolve/",
+   "description": "Video editing with AI features.",
+   "category": "Media Enhancement AI Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.blackmagicdesign.com/products/davinciresolve/",
+    "label": "Visit official site"
+   },
+   "slug": "davinci-resolve"
+  },
+  {
+   "title": "Boomy",
+   "url": "https://boomy.com",
+   "description": "Instantly create music with AI.",
+   "category": "Sound Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://boomy.com",
+    "label": "Visit official site"
+   },
+   "slug": "boomy"
+  },
+  {
+   "title": "AI Boost",
+   "url": "https://boost.pictures/",
+   "description": "** - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": "Systeme.io",
+    "offer_url": "https://systeme.io/?sa=sa00453121549b7e127db7a50582dde596937874e9",
+    "label": "Try All-in-One Platform"
+   },
+   "slug": "ai-boost"
+  },
+  {
+   "title": "Boppy",
+   "url": "https://boppy.me",
+   "description": "Free AI music generator \u2014 describe a song, AI writes lyrics and generates full audio. Any genre, no signup.",
+   "category": "\u266b Music Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://boppy.me",
+    "label": "Visit official site"
+   },
+   "slug": "boppy"
+  },
+  {
+   "title": "Boston Dynamics Spot",
+   "url": "https://www.bostondynamics.com/spot",
+   "description": "** - The well-known quadruped robot built for terrain adaptability, heavy-duty tasks, and integration with high-level applications. Spot is often used in security, inspections, and industrial automation.",
+   "category": "\ud83e\udd16 AI Driven Robots and Robotic Dogs",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.bostondynamics.com/spot",
+    "label": "Visit official site"
+   },
+   "slug": "boston-dynamics-spot"
+  },
+  {
+   "title": "Breeze AI",
+   "url": "https://breeze.ai/",
+   "description": "AI for marketing.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://breeze.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "breeze-ai"
+  },
+  {
+   "title": "BrightBot",
+   "url": "https://brightbot.com/",
+   "description": "** - AI chatbot builder for customer support and engagement, offering deep customization and integration options.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://brightbot.com/",
+    "label": "Visit official site"
+   },
+   "slug": "brightbot"
+  },
+  {
+   "title": "Bronze",
+   "url": "https://bronze.ai",
+   "description": "AI-driven music platform.",
+   "category": "Sound Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://bronze.ai",
+    "label": "Visit official site"
+   },
+   "slug": "bronze"
+  },
+  {
+   "title": "bugfree.ai",
+   "url": "https://bugfree.ai/",
+   "description": "bugfree.ai is an advanced AI-powered platform designed to practice and prepare for system design and behavioral interviews.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://bugfree.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "bugfree-ai"
+  },
+  {
+   "title": "Build Club",
+   "url": "https://www.buildclub.ai",
+   "description": "Global AI community and education platform",
+   "category": "AI Communities",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.buildclub.ai",
+    "label": "Visit official site"
+   },
+   "slug": "build-club"
+  },
+  {
+   "title": "Canva",
+   "url": "https://www.canva.com/",
+   "description": "Easy Graphic Design",
+   "category": "\ud83c\udd95 Additional AI and Productivity Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.canva.com/",
+    "label": "Visit official site"
+   },
+   "slug": "canva"
+  },
+  {
+   "title": "Caricature Maker",
+   "url": "https://caricaturemaker.net/",
+   "description": "photo to caricature using AI.",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://caricaturemaker.net/",
+    "label": "Visit official site"
+   },
+   "slug": "caricature-maker"
+  },
+  {
+   "title": "Cerebras-GPT",
+   "url": "https://www.cerebras.net/",
+   "description": "** - Cerebras Systems provides open-source GPT models optimized for their AI-specific hardware. While designed for large-scale deployment, Cerebras-GPT models can also be run on specific compatible local setups, making it suitable for research or enterprise applications.",
+   "category": "\ud83d\udcbb Software for Large Language Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.cerebras.net/",
+    "label": "Visit official site"
+   },
+   "slug": "cerebras-gpt"
+  },
+  {
+   "title": "CereProc",
+   "url": "https://www.cereproc.com",
+   "description": "Text-to-speech solutions with character.",
+   "category": "Voice-Related AI Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.cereproc.com",
+    "label": "Visit official site"
+   },
+   "slug": "cereproc"
+  },
+  {
+   "title": "Le Chat",
+   "url": "https://chat.mistral.ai/",
+   "description": "** - Mistral\u2019s official conversational interface.",
+   "category": "xAI Grok",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://chat.mistral.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "le-chat"
+  },
+  {
+   "title": "ChatGPT",
+   "url": "https://chat.openai.com/",
+   "description": "** - The primary interface for interacting with OpenAI models, supporting chat, coding, data analysis, research, and agent workflows.",
+   "category": "\ud83e\udde0 Major AI Platforms & Model Ecosystems",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://chat.openai.com/",
+    "label": "Visit official site"
+   },
+   "slug": "chatgpt"
+  },
+  {
+   "title": "Qwen",
+   "url": "https://chat.qwenlm.ai/",
+   "description": "Alibaba\u2019s LLM series, featuring Qwen-72B, Qwen-14B, and smaller variants optimized for local inference. Supports multi-turn chat, code generation, and reasoning**, with API access for enterprise applications.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://chat.qwenlm.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "qwen"
+  },
+  {
+   "title": "ChatGLM",
+   "url": "https://chatglm.cn/",
+   "description": "** \u2013 Main consumer interface",
+   "category": "\ud83c\udde8\ud83c\uddf3 Leading Chinese AI Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://chatglm.cn/",
+    "label": "Visit official site"
+   },
+   "slug": "chatglm"
+  },
+  {
+   "title": "ChatterOn",
+   "url": "https://chatteron.io",
+   "description": "AI chatbot building platform with API.",
+   "category": "Sites with API Integration",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://chatteron.io",
+    "label": "Visit official site"
+   },
+   "slug": "chatteron"
+  },
+  {
+   "title": "CiteMe",
+   "url": "https://citeme.app",
+   "description": "AI-powered academic citation generator. Searches 11+ databases (OpenAlex, PubMed, Semantic Scholar) and formats references in 40+ citation styles. Available as web app, Chrome extension, Google Docs add-on, and Word add-in.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://citeme.app",
+    "label": "Visit official site"
+   },
+   "slug": "citeme"
+  },
+  {
+   "title": "CivitAI",
+   "url": "https://civitai.com/models",
+   "description": "Platform offering various AI models including image generators. Works very well with midjourney",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://civitai.com/models",
+    "label": "Visit official site"
+   },
+   "slug": "civitai"
+  },
+  {
+   "title": "Claid AI",
+   "url": "https://claid.ai/",
+   "description": "AI-powered image processing tool.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://claid.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "claid-ai"
+  },
+  {
+   "title": "Clarifai",
+   "url": "https://www.clarifai.com",
+   "description": "AI platform for computer vision and NLP.",
+   "category": "Sites with API Integration",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.clarifai.com",
+    "label": "Visit official site"
+   },
+   "slug": "clarifai"
+  },
+  {
+   "title": "Claude.ai",
+   "url": "https://claude.ai/",
+   "description": "** - The main interface for interacting with Claude models, supporting chat, documents, coding, and agent-style workflows.",
+   "category": "xAI Grok",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://claude.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "claude-ai"
+  },
+  {
+   "title": "Claude Cowork",
+   "url": "https://claude.ai/download",
+   "description": "** *(Anthropic)* \u2014 Anthropic's desktop AI agent with a graphical interface. Persistent access to local files and apps, designed as a GUI-friendly complement to Claude Code (which is CLI-first). Launched January 2026. Closed-source / subscription.",
+   "category": "Other AI Agents",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://claude.ai/download",
+    "label": "Visit official site"
+   },
+   "slug": "claude-cowork"
+  },
+  {
+   "title": "Claude Code",
+   "url": "https://claude.com/product/claude-code",
+   "description": "** \u2013 AI coding agent that works in your terminal, IDE, desktop app, or browser.",
+   "category": "xAI Grok",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://claude.com/product/claude-code",
+    "label": "Visit official site"
+   },
+   "slug": "claude-code"
+  },
+  {
+   "title": "ClipDrop",
+   "url": "https://clipdrop.co/",
+   "description": "AI tool for image capturing and editing.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://clipdrop.co/",
+    "label": "Visit official site"
+   },
+   "slug": "clipdrop"
+  },
+  {
+   "title": "ClipSpeedAI",
+   "url": "https://clipspeed.ai",
+   "description": "AI-powered video clipping that automatically finds and extracts the best highlight moments from long-form videos for streamers and content creators.",
+   "category": "Video Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://clipspeed.ai",
+    "label": "Visit official site"
+   },
+   "slug": "clipspeedai"
+  },
+  {
+   "title": "Google Cloud Compute Engine",
+   "url": "https://cloud.google.com/compute",
+   "description": "** - Google's infrastructure with high-performance GPUs suitable for machine learning.",
+   "category": "\ud83d\udcbe GPU Rental Services for Large Language Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://cloud.google.com/compute",
+    "label": "Visit official site"
+   },
+   "slug": "google-cloud-compute-engine"
+  },
+  {
+   "title": "Dialogflow Conversational AI",
+   "url": "https://cloud.google.com/dialogflow",
+   "description": "Build and optimize AI-powered chat interfaces.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://cloud.google.com/dialogflow",
+    "label": "Visit official site"
+   },
+   "slug": "dialogflow-conversational-ai"
+  },
+  {
+   "title": "Google Cloud AI",
+   "url": "https://cloud.google.com/products/ai",
+   "description": "APIs for Google's AI services.",
+   "category": "Sites with API Integration",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://cloud.google.com/products/ai",
+    "label": "Visit official site"
+   },
+   "slug": "google-cloud-ai"
+  },
+  {
+   "title": "Vertex AI",
+   "url": "https://cloud.google.com/vertex-ai",
+   "description": "** - Google Cloud\u2019s enterprise AI platform for accessing Gemini, Imagen, Veo, Gemma, embeddings, and broader MLOps tooling.",
+   "category": "\ud83e\udde0 Major AI Platforms & Model Ecosystems",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://cloud.google.com/vertex-ai",
+    "label": "Visit official site"
+   },
+   "slug": "vertex-ai"
+  },
+  {
+   "title": "Codeflash",
+   "url": "https://www.codeflash.ai/",
+   "description": "Ship Blazing-Fast Python Code \u2014 Every Time",
+   "category": "\ud83c\udd95 Additional AI and Productivity Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.codeflash.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "codeflash"
+  },
+  {
+   "title": "Codeium",
+   "url": "https://codeium.com/",
+   "description": "AI for coding assistance.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://codeium.com/",
+    "label": "Visit official site"
+   },
+   "slug": "codeium"
+  },
+  {
+   "title": "Codota",
+   "url": "https://www.codota.com/",
+   "description": "AI tool for developers that predicts your next code segment.",
+   "category": "AI-Powered Compilers and Code Assistants",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.codota.com/",
+    "label": "Visit official site"
+   },
+   "slug": "codota"
+  },
+  {
+   "title": "Cognition Labs",
+   "url": "https://www.cognition-labs.com/",
+   "description": "(USA) Creators of Devin**, the first AI software engineer agent, designed to autonomously handle complex coding tasks from start to finish.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.cognition-labs.com/",
+    "label": "Visit official site"
+   },
+   "slug": "cognition-labs"
+  },
+  {
+   "title": "Image-to-Text with Clip Interrogator",
+   "url": "https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=YQk0eemUrSC7",
+   "description": "A tool for converting images to descriptive text.",
+   "category": "Tools for better image prompting",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=YQk0eemUrSC7",
+    "label": "Visit official site"
+   },
+   "slug": "image-to-text-with-clip-interrogator"
+  },
+  {
+   "title": "Comicory",
+   "url": "https://www.comicory.com",
+   "description": "AI comic generator that produces multi-panel stories with character consistency across frames.",
+   "category": "AI Comic & Storytelling",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.comicory.com",
+    "label": "Visit official site"
+   },
+   "slug": "comicory"
+  },
+  {
+   "title": "GitHub Copilot",
+   "url": "https://copilot.github.com/",
+   "description": "AI pair programmer which suggests code snippets and entire functions in real-time.",
+   "category": "AI-Powered Compilers and Code Assistants",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://copilot.github.com/",
+    "label": "Visit official site"
+   },
+   "slug": "github-copilot"
+  },
+  {
+   "title": "Copy.ai",
+   "url": "https://www.copy.ai/",
+   "description": "AI for copywriting.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.copy.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "copy-ai"
+  },
+  {
+   "title": "CopySmith",
+   "url": "https://www.copysmith.ai/",
+   "description": "** - An AI tool focused on generating high-quality marketing copy, ad campaigns, and product descriptions.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.copysmith.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "copysmith"
+  },
+  {
+   "title": "CoreWeave",
+   "url": "https://www.coreweave.com/",
+   "description": "** - Specialized cloud provider with a focus on GPU-accelerated workloads.",
+   "category": "\ud83d\udcbe GPU Rental Services for Large Language Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.coreweave.com/",
+    "label": "Visit official site"
+   },
+   "slug": "coreweave"
+  },
+  {
+   "title": "Cre8tiveAI",
+   "url": "https://cre8tiveai.com",
+   "description": "AI for image quality enhancement.",
+   "category": "Media Enhancement AI Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://cre8tiveai.com",
+    "label": "Visit official site"
+   },
+   "slug": "cre8tiveai"
+  },
+  {
+   "title": "Credyt",
+   "url": "https://credyt.ai",
+   "description": "Real-time monetization infrastructure for AI-native products. Credyt combines cost and profitability observabilty with usage-based monetization and a managed customer billing UX.",
+   "category": "LLM Ops",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://credyt.ai",
+    "label": "Visit official site"
+   },
+   "slug": "credyt"
+  },
+  {
+   "title": "Alpaca",
+   "url": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
+   "description": "** - Developed by Stanford, Alpaca is an instruction-following model based on LLaMA, fine-tuned for improved performance on specific tasks. Alpaca can be deployed locally, allowing researchers to work with large language models offline for greater privacy and control.",
+   "category": "\ud83d\udcbb Software for Large Language Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
+    "label": "Visit official site"
+   },
+   "slug": "alpaca"
+  },
+  {
+   "title": "CronAI",
+   "url": "https://cronai-nu.vercel.app/",
+   "description": "** - An AI-powered cron expression generator that converts natural language scheduling descriptions into valid cron syntax instantly.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://cronai-nu.vercel.app/",
+    "label": "Visit official site"
+   },
+   "slug": "cronai"
+  },
+  {
+   "title": "Beautifulsoup",
+   "url": "https://www.crummy.com/software/BeautifulSoup/",
+   "description": "** - While not new, it's a powerful Python library for web scraping that has gained renewed interest due to AI-driven data processing needs.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.crummy.com/software/BeautifulSoup/",
+    "label": "Visit official site"
+   },
+   "slug": "beautifulsoup"
+  },
+  {
+   "title": "Cursor",
+   "url": "https://www.cursor.com/",
+   "description": "A VS Code-inspired AI-powered code editor that provides real-time code suggestions, error detection, debugging assistance, and AI-generated explanations. Built for AI-first software development**.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.cursor.com/",
+    "label": "Visit official site"
+   },
+   "slug": "cursor"
+  },
+  {
+   "title": "CustomPod",
+   "url": "https://custompod.io/",
+   "description": "Improve productivity by getting a personalized daily audio briefing on updates from your favorite sites/apps.",
+   "category": "Voice-Related AI Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://custompod.io/",
+    "label": "Visit official site"
+   },
+   "slug": "custompod"
+  },
+  {
+   "title": "PhotoDirector",
+   "url": "https://www.cyberlink.com/products/photodirector-photo-editing-software-365/overview_en_US.html",
+   "description": "Creative editing with AI style effects.",
+   "category": "AI Tools for Photo Editing",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.cyberlink.com/products/photodirector-photo-editing-software-365/overview_en_US.html",
+    "label": "Visit official site"
+   },
+   "slug": "photodirector"
+  },
+  {
+   "title": "D-ID",
+   "url": "https://www.d-id.com",
+   "description": "AI-driven video face animation.",
+   "category": "Video Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.d-id.com",
+    "label": "Visit official site"
+   },
+   "slug": "d-id"
+  },
+  {
+   "title": "Dadabots",
+   "url": "https://dadabots.com",
+   "description": "AI for generating music.",
+   "category": "Sound Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://dadabots.com",
+    "label": "Visit official site"
+   },
+   "slug": "dadabots"
+  },
+  {
+   "title": "Dolly 2.0",
+   "url": "https://www.databricks.com/blog/2023/04/12/dolly-v2-first-open-instruction-tuned-llm.html",
+   "description": "** - Developed by Databricks, Dolly 2.0 is an open-source, instruction-tuned LLM that can be run locally, offering a cost-effective alternative for businesses looking for tailored solutions without recurring cloud costs.",
+   "category": "\ud83d\udcbb Software for Large Language Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.databricks.com/blog/2023/04/12/dolly-v2-first-open-instruction-tuned-llm.html",
+    "label": "Visit official site"
+   },
+   "slug": "dolly-2-0"
+  },
+  {
+   "title": "DataCamp",
+   "url": "https://www.datacamp.com/",
+   "description": "**: Free 3-month individual subscription to learn data science and AI skills.",
+   "category": "\ud83c\udf93 Free Stuff for Students & Educators",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.datacamp.com/",
+    "label": "Visit official site"
+   },
+   "slug": "datacamp"
+  },
+  {
+   "title": "DataRobot",
+   "url": "https://www.datarobot.com/",
+   "description": "Automated Machine Learning",
+   "category": "\ud83c\udd95 Additional AI and Productivity Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.datarobot.com/",
+    "label": "Visit official site"
+   },
+   "slug": "datarobot"
+  },
+  {
+   "title": "Deep Image",
+   "url": "https://deep-image.ai",
+   "description": "Enhance image resolution with AI.",
+   "category": "Media Enhancement AI Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://deep-image.ai",
+    "label": "Visit official site"
+   },
+   "slug": "deep-image"
+  },
+  {
+   "title": "DeepAI",
+   "url": "https://deepai.org",
+   "description": "AI-driven image synthesis and editing.",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://deepai.org",
+    "label": "Visit official site"
+   },
+   "slug": "deepai"
+  },
+  {
+   "title": "Deep Angel",
+   "url": "https://deepangel.media.mit.edu",
+   "description": "AI-driven tool for removing objects from images.",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://deepangel.media.mit.edu",
+    "label": "Visit official site"
+   },
+   "slug": "deep-angel"
+  },
+  {
+   "title": "DeepArt",
+   "url": "https://deepart.io",
+   "description": "Turns your photos into artworks using AI.",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://deepart.io",
+    "label": "Visit official site"
+   },
+   "slug": "deepart"
+  },
+  {
+   "title": "Deep Art Effects",
+   "url": "https://www.deeparteffects.com",
+   "description": "AI video art generator.",
+   "category": "Video Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.deeparteffects.com",
+    "label": "Visit official site"
+   },
+   "slug": "deep-art-effects"
+  },
+  {
+   "title": "AI Code Completion by DeepCode",
+   "url": "https://www.deepcode.ai/",
+   "description": "AI-powered code review tool that learns from your codebase.",
+   "category": "AI-Powered Compilers and Code Assistants",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.deepcode.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "ai-code-completion-by-deepcode"
+  },
+  {
+   "title": "Deep Dream Generator",
+   "url": "https://deepdreamgenerator.com",
+   "description": "AI-based deep learning tool for artistic image transformation.",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://deepdreamgenerator.com",
+    "label": "Visit official site"
+   },
+   "slug": "deep-dream-generator"
+  },
+  {
+   "title": "DeepL Language Translator",
+   "url": "https://www.deepl.com/translator",
+   "description": "Offers superior language translation services powered by advanced AI technology.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.deepl.com/translator",
+    "label": "Visit official site"
+   },
+   "slug": "deepl-language-translator"
+  },
+  {
+   "title": "DeepMind",
+   "url": "https://deepmind.com/",
+   "description": "Pioneering AI research lab, known for advancements in deep learning and AI for games.",
+   "category": "\ud83e\udd16 Well known AI tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://deepmind.com/",
+    "label": "Visit official site"
+   },
+   "slug": "deepmind"
+  },
+  {
+   "title": "Deepnote",
+   "url": "https://deepnote.com/",
+   "description": "**: A collaborative data science notebook with a free Student plan that includes more powerful hardware than the standard free tier.",
+   "category": "\ud83c\udf93 Free Stuff for Students & Educators",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://deepnote.com/",
+    "label": "Visit official site"
+   },
+   "slug": "deepnote"
+  },
+  {
+   "title": "DeepSeek",
+   "url": "https://deepseek.com/",
+   "description": "A powerful AI platform offering open-source LLMs such as DeepSeek-V3 (671B) and DeepSeek R1 (660B), along with smaller models (1.5B, 7B, 14B) for local deployment. It also features a paid API compatible with OpenAI's format, supporting streaming and enterprise solutions**.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://deepseek.com/",
+    "label": "Visit official site"
+   },
+   "slug": "deepseek"
+  },
+  {
+   "title": "Descript",
+   "url": "https://www.descript.com",
+   "description": "Video editing and transcription.",
+   "category": "Video Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.descript.com",
+    "label": "Visit official site"
+   },
+   "slug": "descript"
+  },
+  {
+   "title": "DigitalOcean",
+   "url": "https://www.digitalocean.com/",
+   "description": ": $200 in platform credit** for 1 year, perfect for hosting your AI projects or deploying models.",
+   "category": "\ud83c\udf93 Free Stuff for Students & Educators",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.digitalocean.com/",
+    "label": "Visit official site"
+   },
+   "slug": "digitalocean"
+  },
+  {
+   "title": "DishRoll",
+   "url": "https://dishroll.netlify.app/",
+   "description": "AI-powered weekly meal planner that generates personalised 7-day menus based on dietary needs, cuisine preferences, and grocery budget.",
+   "category": "\ud83c\udd95 Additional AI and Productivity Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://dishroll.netlify.app/",
+    "label": "Visit official site"
+   },
+   "slug": "dishroll"
+  },
+  {
+   "title": "DoaCam",
+   "url": "https://doacam.com",
+   "description": "** - AI video companion with a 3D avatar that sees you through your camera, talks in real time, and remembers every conversation. Runs in browser.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://doacam.com",
+    "label": "Visit official site"
+   },
+   "slug": "doacam"
+  },
+  {
+   "title": "Google Docs Guide 2",
+   "url": "https://docs.google.com/document/d/11WlzjBT0xRpQhP9tFMtxzd0q6ANIdHPUBkMV-YB043U/edit",
+   "description": "Additional insights on AI image generation.",
+   "category": "Tools for better image prompting",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://docs.google.com/document/d/11WlzjBT0xRpQhP9tFMtxzd0q6ANIdHPUBkMV-YB043U/edit",
+    "label": "Visit official site"
+   },
+   "slug": "google-docs-guide-2"
+  },
+  {
+   "title": "Google Docs Guide 1",
+   "url": "https://docs.google.com/document/d/17VPu3U2qXthOpt2zWczFvf-AH6z37hxUbvEe1rJTsEc/edit#",
+   "description": "Detailed guide on image prompting strategies.",
+   "category": "Tools for better image prompting",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://docs.google.com/document/d/17VPu3U2qXthOpt2zWczFvf-AH6z37hxUbvEe1rJTsEc/edit#",
+    "label": "Visit official site"
+   },
+   "slug": "google-docs-guide-1"
+  },
+  {
+   "title": "Google Docs Guide 3",
+   "url": "https://docs.google.com/document/d/e/2PACX-1vSIWlr5F6J4yv4jxazaXcZaI-F3MxCsnSq4jwoaO3vaEYC911v2N7JpDgjuhAUVYhq4VmA1SCjF3rdK/pub",
+   "description": "Advanced techniques for AI image generation.",
+   "category": "Tools for better image prompting",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://docs.google.com/document/d/e/2PACX-1vSIWlr5F6J4yv4jxazaXcZaI-F3MxCsnSq4jwoaO3vaEYC911v2N7JpDgjuhAUVYhq4VmA1SCjF3rdK/pub",
+    "label": "Visit official site"
+   },
+   "slug": "google-docs-guide-3"
+  },
+  {
+   "title": "Google Spreadsheet for Midjourney",
+   "url": "https://docs.google.com/spreadsheets/d/10i9Ip8tVSERAuMWbc6-H6BUFCoUGOQ91YzDvX--c4bk/edit#gid=0",
+   "description": "Spreadsheet with extensive Midjourney resources.",
+   "category": "Tools for better image prompting",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://docs.google.com/spreadsheets/d/10i9Ip8tVSERAuMWbc6-H6BUFCoUGOQ91YzDvX--c4bk/edit#gid=0",
+    "label": "Visit official site"
+   },
+   "slug": "google-spreadsheet-for-midjourney"
+  },
+  {
+   "title": "Artist refference Spreadsheet",
+   "url": "https://docs.google.com/spreadsheets/d/1h6H2CqjLdZMbLjlz6EHwemfO4fkIzAfWtjRAMSa2KHE/edit#gid=0",
+   "description": "A comprehensive Google Spreadsheet with refferences of artist styles",
+   "category": "Tools for better image prompting",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://docs.google.com/spreadsheets/d/1h6H2CqjLdZMbLjlz6EHwemfO4fkIzAfWtjRAMSa2KHE/edit#gid=0",
+    "label": "Visit official site"
+   },
+   "slug": "artist-refference-spreadsheet"
+  },
+  {
+   "title": "Google Spreadsheet 2 for Midjourney",
+   "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQY7A8XI922SZhO0C91QExsjJGpR5la7jA1GoqZlUyLCMkkChTmIH-LzwBtFqB6stpRWZmDgwcahBlm/pubhtml#",
+   "description": "Another comprehensive spreadsheet for Midjourney resources.",
+   "category": "Tools for better image prompting",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQY7A8XI922SZhO0C91QExsjJGpR5la7jA1GoqZlUyLCMkkChTmIH-LzwBtFqB6stpRWZmDgwcahBlm/pubhtml#",
+    "label": "Visit official site"
+   },
+   "slug": "google-spreadsheet-2-for-midjourney"
+  },
+  {
+   "title": "Docs",
+   "url": "https://docs.openclaw.ai/",
+   "description": "** \u2014 Official documentation",
+   "category": "\ud83e\udd9e OpenClaw Ecosystem",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://docs.openclaw.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "docs"
+  },
+  {
+   "title": "Security best practices",
+   "url": "https://docs.openclaw.ai/security",
+   "description": "** \u2014 Hardening guide",
+   "category": "\ud83e\udd9e OpenClaw Ecosystem",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://docs.openclaw.ai/security",
+    "label": "Visit official site"
+   },
+   "slug": "security-best-practices"
+  },
+  {
+   "title": "Z.AI Developer Platform",
+   "url": "https://docs.z.ai/",
+   "description": "** \u2013 International API documentation",
+   "category": "\ud83c\udde8\ud83c\uddf3 Leading Chinese AI Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://docs.z.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "z-ai-developer-platform"
+  },
+  {
+   "title": "Durable",
+   "url": "https://durable.co/",
+   "description": "** - AI-powered website builder that can create a functional website in under a minute, focusing on simplicity and speed.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://durable.co/",
+    "label": "Visit official site"
+   },
+   "slug": "durable"
+  },
+  {
+   "title": "Ecrett Music",
+   "url": "https://ecrettmusic.com",
+   "description": "AI music generator.",
+   "category": "Sound Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://ecrettmusic.com",
+    "label": "Visit official site"
+   },
+   "slug": "ecrett-music"
+  },
+  {
+   "title": "GitHub Student Developer Pack",
+   "url": "https://education.github.com/pack",
+   "description": "** is the most well-known and comprehensive bundle of free tools for student developers. Verification is done through your school email or other proof of enrollment.",
+   "category": "\ud83c\udf93 Free Stuff for Students & Educators",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://education.github.com/pack",
+    "label": "Visit official site"
+   },
+   "slug": "github-student-developer-pack"
+  },
+  {
+   "title": "EKHOS AI",
+   "url": "https://ekhos.ai/",
+   "description": "A powerful speech-to-text software that transcribes audio and video files, supports real-time recording and transcription, and includes a built-in proofreading editor.",
+   "category": "Voice-Related AI Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://ekhos.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "ekhos-ai"
+  },
+  {
+   "title": "Elai.io",
+   "url": "https://elai.io",
+   "description": "AI video builder with custom avatars.",
+   "category": "Video Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://elai.io",
+    "label": "Visit official site"
+   },
+   "slug": "elai-io"
+  },
+  {
+   "title": "ElevenLabs",
+   "url": "https://elevenlabs.io",
+   "description": "State-of-the-art voice synthesis for realistic and customizable speech.",
+   "category": "Voice-Related AI Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://elevenlabs.io",
+    "label": "Visit official site"
+   },
+   "slug": "elevenlabs"
+  },
+  {
+   "title": "Endel",
+   "url": "https://endel.io",
+   "description": "AI for personalized soundscapes.",
+   "category": "Sound Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://endel.io",
+    "label": "Visit official site"
+   },
+   "slug": "endel"
+  },
+  {
+   "title": "ERNIE",
+   "url": "https://ernie.baidu.com/",
+   "description": "** \u2013 Main consumer / model site",
+   "category": "\ud83c\udde8\ud83c\uddf3 Leading Chinese AI Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://ernie.baidu.com/",
+    "label": "Visit official site"
+   },
+   "slug": "ernie"
+  },
+  {
+   "title": "Evaligo",
+   "url": "https://www.evaligo.com",
+   "description": "** - Visual no-code AI workflow builder for SEO, marketing, and sales teams. Drag-and-drop agentic AI workflows with 100+ templates, prompt testing across GPT/Claude/Gemini, and one-click deployment as APIs or embeddable apps. Free tier available.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.evaligo.com",
+    "label": "Visit official site"
+   },
+   "slug": "evaligo"
+  },
+  {
+   "title": "Eye Type Detector",
+   "url": "https://eyeshapedetector.app/",
+   "description": "Eye Shape Detector with AI|Finder eye shape",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://eyeshapedetector.app/",
+    "label": "Visit official site"
+   },
+   "slug": "eye-type-detector"
+  },
+  {
+   "title": "FaceApp",
+   "url": "https://www.faceapp.com",
+   "description": "AI-powered facial editing.",
+   "category": "AI Tools for Photo Editing",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.faceapp.com",
+    "label": "Visit official site"
+   },
+   "slug": "faceapp"
+  },
+  {
+   "title": "Fast.ai",
+   "url": "https://www.fast.ai/",
+   "description": "Making neural nets uncool again, focused on making deep learning more accessible.",
+   "category": "\ud83e\udd16 Well known AI tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.fast.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "fast-ai"
+  },
+  {
+   "title": "fathom.video",
+   "url": "https://fathom.video",
+   "description": "Records, transcribes, highlights, and summarizes your meetings.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://fathom.video",
+    "label": "Visit official site"
+   },
+   "slug": "fathom-video"
+  },
+  {
+   "title": "Figure AI",
+   "url": "https://www.figure.ai/",
+   "description": "** - (USA) A robotics company building general-purpose humanoid robots. Backed by major tech players like OpenAI and Microsoft, they are at the forefront of AI embodiment.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.figure.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "figure-ai"
+  },
+  {
+   "title": "Fireflies AI",
+   "url": "https://fireflies.ai/",
+   "description": "AI tool for improving meetings.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://fireflies.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "fireflies-ai"
+  },
+  {
+   "title": "Firework",
+   "url": "https://firework.com",
+   "description": "Short video platform with AI.",
+   "category": "Video Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://firework.com",
+    "label": "Visit official site"
+   },
+   "slug": "firework"
+  },
+  {
+   "title": "FlexClip",
+   "url": "https://www.flexclip.com",
+   "description": "Easy-to-use AI video maker.",
+   "category": "Video Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.flexclip.com",
+    "label": "Visit official site"
+   },
+   "slug": "flexclip"
+  },
+  {
+   "title": "Fliki",
+   "url": "https://fliki.ai",
+   "description": "Turn text to speech videos.",
+   "category": "Video Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://fliki.ai",
+    "label": "Visit official site"
+   },
+   "slug": "fliki"
+  },
+  {
+   "title": "Flixier",
+   "url": "https://flixier.com",
+   "description": "Improve video quality online.",
+   "category": "Media Enhancement AI Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://flixier.com",
+    "label": "Visit official site"
+   },
+   "slug": "flixier"
+  },
+  {
+   "title": "FloydHub",
+   "url": "https://www.floydhub.com/",
+   "description": "** - A platform for training and deploying deep learning models, offering GPU rentals.",
+   "category": "\ud83d\udcbe GPU Rental Services for Large Language Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.floydhub.com/",
+    "label": "Visit official site"
+   },
+   "slug": "floydhub"
+  },
+  {
+   "title": "FontVibe",
+   "url": "https://fontvibe.ai",
+   "description": "AI text effect generator with 100+ styles (neon, glitch, 3D bold, Viking, cyberpunk, and more). Outputs high-resolution PNG with optional transparent background.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://fontvibe.ai",
+    "label": "Visit official site"
+   },
+   "slug": "fontvibe"
+  },
+  {
+   "title": "Fotor AI Photo Editor",
+   "url": "https://www.fotor.com",
+   "description": "AI-enhanced photo editing and image generation.",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.fotor.com",
+    "label": "Visit official site"
+   },
+   "slug": "fotor-ai-photo-editor"
+  },
+  {
+   "title": "Free AI Tools JP",
+   "url": "https://free-ai-tools.jp",
+   "description": "Curated directory of 63 free AI tools for Japanese users (text generation, image generation, transcription, contract review), no signup required.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://free-ai-tools.jp",
+    "label": "Visit official site"
+   },
+   "slug": "free-ai-tools-jp"
+  },
+  {
+   "title": "Free Tegami Tools JP",
+   "url": "https://free-tegami-tools.jp",
+   "description": "65 AI tools for Japanese ceremonial and business writing (wedding speeches, eulogies, new-year greetings, business correspondence).",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://free-tegami-tools.jp",
+    "label": "Visit official site"
+   },
+   "slug": "free-tegami-tools-jp"
+  },
+  {
+   "title": "Domain Generator",
+   "url": "https://freedomaingenerator.com/",
+   "description": "Free AI domain generator with availability check and price comparison",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://freedomaingenerator.com/",
+    "label": "Visit official site"
+   },
+   "slug": "domain-generator"
+  },
+  {
+   "title": "Future Tools",
+   "url": "https://www.futuretools.io/",
+   "description": "A comprehensive list of additional AI-related tools.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.futuretools.io/",
+    "label": "Visit official site"
+   },
+   "slug": "future-tools"
+  },
+  {
+   "title": "GANBreeder",
+   "url": "https://ganbreeder.app",
+   "description": "Breed two images to create novel new ones using GANs.",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://ganbreeder.app",
+    "label": "Visit official site"
+   },
+   "slug": "ganbreeder"
+  },
+  {
+   "title": "GANPaint Studio",
+   "url": "https://ganpaint.io",
+   "description": "Interactive tool for semantic photo manipulation.",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://ganpaint.io",
+    "label": "Visit official site"
+   },
+   "slug": "ganpaint-studio"
+  },
+  {
+   "title": "Google Gemini",
+   "url": "https://gemini.google.com/",
+   "description": "** - Google\u2019s main conversational interface for interacting with its latest AI models.",
+   "category": "\ud83e\udde0 Major AI Platforms & Model Ecosystems",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://gemini.google.com/",
+    "label": "Visit official site"
+   },
+   "slug": "google-gemini"
+  },
+  {
+   "title": "Gemini Omni Prompts",
+   "url": "https://geminiomniprompts.org/",
+   "description": "** - Source-cited prompt library for Google's Gemini Omni video model. Free, no signup.",
+   "category": "AI Tool Resources & Directories",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://geminiomniprompts.org/",
+    "label": "Visit official site"
+   },
+   "slug": "gemini-omni-prompts"
+  },
+  {
+   "title": "Generated Photos",
+   "url": "https://generated.photos/",
+   "description": "AI for generating human-like images.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://generated.photos/",
+    "label": "Visit official site"
+   },
+   "slug": "generated-photos"
+  },
+  {
+   "title": "Generrated",
+   "url": "https://generrated.com/",
+   "description": "A platform for exploring and creating AI-generated art.",
+   "category": "Tools for better image prompting",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://generrated.com/",
+    "label": "Visit official site"
+   },
+   "slug": "generrated"
+  },
+  {
+   "title": "GEOScore",
+   "url": "https://geoscoreai.com",
+   "description": "** - AI search visibility scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Runs 11 technical checks for generative engine optimization (GEO).",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://geoscoreai.com",
+    "label": "Visit official site"
+   },
+   "slug": "geoscore"
+  },
+  {
+   "title": "Gestell",
+   "url": "https://gestell.ai",
+   "description": "Gestell takes your messy, unstructured data and turns it into organized, searchable databases so your AI can find answers quickly and accurately at any scale.",
+   "category": "LLM Ops",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://gestell.ai",
+    "label": "Visit official site"
+   },
+   "slug": "gestell"
+  },
+  {
+   "title": "BurnRate",
+   "url": "https://getburnrate.io",
+   "description": "Local-first AI coding cost analytics. Tracks Claude Code, Cursor, Codex, Copilot, Windsurf, Cline, and Aider. Cost breakdowns, 23 optimization rules, rate limit monitoring, provider comparison, and PDF reports.",
+   "category": "AI-Powered Compilers and Code Assistants",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://getburnrate.io",
+    "label": "Visit official site"
+   },
+   "slug": "burnrate"
+  },
+  {
+   "title": "GetPaperFast AI paper summary",
+   "url": "https://www.getpaperfast.com/",
+   "description": "Fast Paper Summaries with Multilingual Export.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.getpaperfast.com/",
+    "label": "Visit official site"
+   },
+   "slug": "getpaperfast-ai-paper-summary"
+  },
+  {
+   "title": "Soda",
+   "url": "https://getsoda.app",
+   "description": "\u2013 Knowledge layer for customer-facing teams. A living memory built from every call, app and conversation.",
+   "category": "\ud83c\udd95 Additional AI and Productivity Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://getsoda.app",
+    "label": "Visit official site"
+   },
+   "slug": "soda"
+  },
+  {
+   "title": "Ghost Robotics Vision 60",
+   "url": "https://www.ghostrobotics.io/vision60",
+   "description": "** - A rugged quadruped robot tailored for outdoor and military applications, capable of enduring harsh conditions and demanding environments.",
+   "category": "\ud83e\udd16 AI Driven Robots and Robotic Dogs",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.ghostrobotics.io/vision60",
+    "label": "Visit official site"
+   },
+   "slug": "ghost-robotics-vision-60"
+  },
+  {
+   "title": "CAJAL / PaperClaw",
+   "url": "https://github.com/Agnuxo1/CAJAL",
+   "description": "** - (Spain/International) Local AI for scientific paper generation with specialized 4B and 9B models. Features GGUF quantization, Ollama compatibility, and ranked #3 on scientific writing benchmarks. Open-source and designed for offline academic writing workflows.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/Agnuxo1/CAJAL",
+    "label": "Visit official site"
+   },
+   "slug": "cajal-paperclaw"
+  },
+  {
+   "title": "claude-plugins-official",
+   "url": "https://github.com/anthropics/claude-plugins-official",
+   "description": "** \u2014 Official plugin resources and examples for extending Claude-based workflows.",
+   "category": "AI Agent Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/anthropics/claude-plugins-official",
+    "label": "Visit official site"
+   },
+   "slug": "claude-plugins-official"
+  },
+  {
+   "title": "OpenRabbit",
+   "url": "https://github.com/aryanbrite/openrabbit",
+   "description": "Free, open-source, self-hosted AI GitHub PR reviewer that runs entirely in GitHub Actions.",
+   "category": "AI-Powered Compilers and Code Assistants",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/aryanbrite/openrabbit",
+    "label": "Visit official site"
+   },
+   "slug": "openrabbit"
+  },
+  {
+   "title": "Roundtable",
+   "url": "https://github.com/askbudi/roundtable",
+   "description": "Zero-configuration MCP server that unifies multiple AI coding assistants (Claude Code, Cursor, Codex) through intelligent auto-discovery.",
+   "category": "AI-Powered Compilers and Code Assistants",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/askbudi/roundtable",
+    "label": "Visit official site"
+   },
+   "slug": "roundtable"
+  },
+  {
+   "title": "Stable Diffusion Web UI",
+   "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+   "description": "** - A popular web-based interface for running Stable Diffusion models, offering extensive features and customization options.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "label": "Visit official site"
+   },
+   "slug": "stable-diffusion-web-ui"
+  },
+  {
+   "title": "Antigravity Link",
+   "url": "https://github.com/cafeTechne/antigravity-link-extension",
+   "description": "VS Code extension that bridges mobile devices to Google's Antigravity IDE (a Claude-powered VS Code fork). Mirror active AI chat sessions on your phone, send messages, upload files, stop AI generation, and automate workflows via a local HTTP API or 9 MCP tools. Listed in the official MCP Registry.",
+   "category": "AI-Powered Compilers and Code Assistants",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/cafeTechne/antigravity-link-extension",
+    "label": "Visit official site"
+   },
+   "slug": "antigravity-link"
+  },
+  {
+   "title": "Dorothy",
+   "url": "https://github.com/Charlie85270/Dorothy",
+   "description": "Open-source desktop app to orchestrate multiple AI coding agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, and remote control.",
+   "category": "AI-Powered Compilers and Code Assistants",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/Charlie85270/Dorothy",
+    "label": "Visit official site"
+   },
+   "slug": "dorothy"
+  },
+  {
+   "title": "cloudflare/moltworker",
+   "url": "https://github.com/cloudflare/moltworker",
+   "description": "** \u2014 Cloudflare sandbox runtime",
+   "category": "\ud83e\udd9e OpenClaw Ecosystem",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/cloudflare/moltworker",
+    "label": "Visit official site"
+   },
+   "slug": "cloudflare-moltworker"
+  },
+  {
+   "title": "BGPT MCP",
+   "url": "https://github.com/connerlambden/bgpt-mcp",
+   "description": "Hosted MCP server for searching scientific papers with full-text experimental data. 50 free searches, no API key needed.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/connerlambden/bgpt-mcp",
+    "label": "Visit official site"
+   },
+   "slug": "bgpt-mcp"
+  },
+  {
+   "title": "CrewAI",
+   "url": "https://github.com/crewAIInc/crewAI",
+   "description": "** \u2014 Framework for orchestrating teams of specialized AI agents. Role-based agents collaborate on complex tasks. $20M+ in VC funding. Apache-2.0.",
+   "category": "Other AI Agents",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/crewAIInc/crewAI",
+    "label": "Visit official site"
+   },
+   "slug": "crewai"
+  },
+  {
+   "title": "Deforum Stable Diffusion",
+   "url": "https://github.com/deforum-art/deforum-stable-diffusion",
+   "description": "** - A repository for generating animations and high-quality visuals using stable diffusion models.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/deforum-art/deforum-stable-diffusion",
+    "label": "Visit official site"
+   },
+   "slug": "deforum-stable-diffusion"
+  },
+  {
+   "title": "OmniRoute",
+   "url": "https://github.com/diegosouzapw/OmniRoute",
+   "description": "Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/diegosouzapw/OmniRoute",
+    "label": "Visit official site"
+   },
+   "slug": "omniroute"
+  },
+  {
+   "title": "Product Manager Skills",
+   "url": "https://github.com/Digidai/product-manager-skills",
+   "description": "** \u2014 PM-focused skill pack",
+   "category": "\ud83e\udd9e OpenClaw Ecosystem",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/Digidai/product-manager-skills",
+    "label": "Visit official site"
+   },
+   "slug": "product-manager-skills"
+  },
+  {
+   "title": "AI Dev Toolkit",
+   "url": "https://github.com/dohko04/awesome-ai-prompts-for-devs",
+   "description": "** - 196 production-ready frameworks for AI engineering: multi-agent orchestration, MCP server configs, vibe coding workflows, RAG pipelines, and agentic deployment guides. 97 free samples available.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/dohko04/awesome-ai-prompts-for-devs",
+    "label": "Visit official site"
+   },
+   "slug": "ai-dev-toolkit"
+  },
+  {
+   "title": "open an issue",
+   "url": "https://github.com/eudk/awesome-ai-tools/issues",
+   "description": "or submit a pull request.",
+   "category": "Comprehensive List of AI Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/eudk/awesome-ai-tools/issues",
+    "label": "Visit official site"
+   },
+   "slug": "open-an-issue"
+  },
+  {
+   "title": "skill-optimizer",
+   "url": "https://github.com/fastxyz/skill-optimizer",
+   "description": "** \u2014 CLI tool that benchmarks SKILL.md guidance docs against multiple LLMs, measures whether models call the right SDK/CLI/MCP tools with correct arguments, and runs an iterative optimizer to rewrite your docs until every configured model meets a score floor. MIT.",
+   "category": "AI Agent Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/fastxyz/skill-optimizer",
+    "label": "Visit official site"
+   },
+   "slug": "skill-optimizer"
+  },
+  {
+   "title": "GitHub Copilot",
+   "url": "https://github.com/features/copilot",
+   "description": ": Free access** to the Pro tier of the industry-standard AI pair programmer while you are a student.",
+   "category": "\ud83c\udf93 Free Stuff for Students & Educators",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/features/copilot",
+    "label": "Visit official site"
+   },
+   "slug": "github-copilot"
+  },
+  {
+   "title": "invisible-playwright",
+   "url": "https://github.com/feder-cr/invisible_playwright",
+   "description": "** \u2014 Python wrapper for a stealth-patched Firefox 150 binary. Drop-in replacement for vanilla Playwright Firefox, returns a native Playwright Browser. Anti-fingerprinting at the C++ source level (Canvas, WebGL, AudioContext, Fonts, WebRTC, Timezone, DevTools detection). Useful when AI agents need anti-detect web access. MIT.",
+   "category": "AI Agent Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/feder-cr/invisible_playwright",
+    "label": "Visit official site"
+   },
+   "slug": "invisible-playwright"
+  },
+  {
+   "title": "AgenticSeek",
+   "url": "https://github.com/Fosowl/agenticSeek",
+   "description": "** \u2014 Fully local, privacy-first Manus alternative. Voice-enabled, autonomous web browsing, code writing & execution, and smart agent routing. No API costs \u2014 runs entirely on your own hardware. MIT.",
+   "category": "Other AI Agents",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/Fosowl/agenticSeek",
+    "label": "Visit official site"
+   },
+   "slug": "agenticseek"
+  },
+  {
+   "title": "OpenManus",
+   "url": "https://github.com/FoundationAgents/OpenManus",
+   "description": "\u2014 Open-source framework for building general AI agents, created by the MetaGPT team as a fully open alternative to the invite-only Manus platform. Supports multi-agent flows, browser, shell, code execution, and web search. Also see OpenManus-RL** for RL-based agent fine-tuning (GRPO). MIT.",
+   "category": "Other AI Agents",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/FoundationAgents/OpenManus",
+    "label": "Visit official site"
+   },
+   "slug": "openmanus"
+  },
+  {
+   "title": "Agent Zero",
+   "url": "https://github.com/frdel/agent-zero",
+   "description": "** - A repository for creating and managing autonomous AI agents with customizable goals and tasks.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/frdel/agent-zero",
+    "label": "Visit official site"
+   },
+   "slug": "agent-zero"
+  },
+  {
+   "title": "ai-evaluation",
+   "url": "https://github.com/future-agi/ai-evaluation",
+   "description": "Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge, guardrail scanners (jailbreak, PII, injection), and AutoEval pipelines with CI/CD support.",
+   "category": "LLM Ops",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/future-agi/ai-evaluation",
+    "label": "Visit official site"
+   },
+   "slug": "ai-evaluation"
+  },
+  {
+   "title": "Future AGI",
+   "url": "https://github.com/future-agi/future-agi",
+   "description": "Open-source self-hostable end-to-end LLMOps platform unifying tracing, evals, simulations, datasets, gateway, and guardrails.",
+   "category": "LLM Ops",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/future-agi/future-agi",
+    "label": "Visit official site"
+   },
+   "slug": "future-agi"
+  },
+  {
+   "title": "traceAI",
+   "url": "https://github.com/future-agi/traceAI",
+   "description": "Open-source OpenTelemetry-native tracing framework for LLM and AI agent applications. Auto-instruments 20+ frameworks (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock).",
+   "category": "LLM Ops",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/future-agi/traceAI",
+    "label": "Visit official site"
+   },
+   "slug": "traceai"
+  },
+  {
+   "title": "llama.cpp",
+   "url": "https://github.com/ggml-org/llama.cpp",
+   "description": "** \u2014 High-performance local inference engine for LLMs and multimodal models, supporting CPU/GPU execution, quantization, and broad model compatibility.",
+   "category": "AI Agent Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/ggml-org/llama.cpp",
+    "label": "Visit official site"
+   },
+   "slug": "llama-cpp"
+  },
+  {
+   "title": "Flan-T5",
+   "url": "https://github.com/google-research/t5x",
+   "description": "** - A variant of Google\u2019s T5 model, fine-tuned with instruction-based learning (Flan). Flan-T5 is popular in the open-source community for various natural language processing tasks, and it can be deployed on local hardware for private usage.",
+   "category": "\ud83d\udcbb Software for Large Language Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/google-research/t5x",
+    "label": "Visit official site"
+   },
+   "slug": "flan-t5"
+  },
+  {
+   "title": "Deep-Live-Cam",
+   "url": "https://github.com/hacksider/Deep-Live-Cam",
+   "description": "** - A repository that offers tools to create deepfake videos using live camera input, providing real-time face-swapping capabilities.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/hacksider/Deep-Live-Cam",
+    "label": "Visit official site"
+   },
+   "slug": "deep-live-cam"
+  },
+  {
+   "title": "GANSpace",
+   "url": "https://github.com/harskish/ganspace",
+   "description": "Discovering interpretable GAN controls.",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/harskish/ganspace",
+    "label": "Visit official site"
+   },
+   "slug": "ganspace"
+  },
+  {
+   "title": "AI Models Catalog",
+   "url": "https://github.com/i-need-token/ai-models",
+   "description": "** - Structured YAML catalog of 4,587+ AI models across 95 providers with pricing, context windows, modalities, and capabilities. First-party data with TypeScript types, Zod validation, interactive comparison tool, and 17 SEO pages for model discovery.",
+   "category": "AI Tool Resources & Directories",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/i-need-token/ai-models",
+    "label": "Visit official site"
+   },
+   "slug": "ai-models-catalog"
+  },
+  {
+   "title": "ai-i18n",
+   "url": "https://github.com/i18n-actions/ai-i18n",
+   "description": "GitHub Action that automatically translates i18n files (XLIFF, JSON) using LLM providers (Anthropic, OpenAI, Ollama) with glossary support, change detection, and reviewed translation preservation.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/i18n-actions/ai-i18n",
+    "label": "Visit official site"
+   },
+   "slug": "ai-i18n"
+  },
+  {
+   "title": "Inferable",
+   "url": "https://github.com/inferablehq/inferable",
+   "description": "Open-source managed agent runtime for distributed AI agents",
+   "category": "LLM Ops",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/inferablehq/inferable",
+    "label": "Visit official site"
+   },
+   "slug": "inferable"
+  },
+  {
+   "title": "II-Commons Skills",
+   "url": "https://github.com/Intelligent-Internet/II-Commons-Skills",
+   "description": "** \u2014 Open-source agent skill and npm CLI for daily-updated arXiv, PubMed/PMC, and US policy retrieval with deterministic freshness cutoffs. Apache-2.0.",
+   "category": "AI Agent Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/Intelligent-Internet/II-Commons-Skills",
+    "label": "Visit official site"
+   },
+   "slug": "ii-commons-skills"
+  },
+  {
+   "title": "WhereMyTokens",
+   "url": "https://github.com/jeongwookie/WhereMyTokens",
+   "description": "Open-source Windows tray app for real-time Claude Code usage monitoring. Tracks per-session tokens, cost, context window, and 5h/1w rate limits from local JSONL session files and Claude Code's statusLine hook.",
+   "category": "LLM Ops",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/jeongwookie/WhereMyTokens",
+    "label": "Visit official site"
+   },
+   "slug": "wheremytokens"
+  },
+  {
+   "title": "KubeStellar Console",
+   "url": "https://github.com/kubestellar/console",
+   "description": "Open-source multi-cluster Kubernetes dashboard with an MCP server (kc-agent) that enables AI coding agents to query and manage clusters via natural language. Integrates with 20+ CNCF projects for AI-assisted operations across edge and cloud.",
+   "category": "LLM Ops",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/kubestellar/console",
+    "label": "Visit official site"
+   },
+   "slug": "kubestellar-console"
+  },
+  {
+   "title": "LangChain",
+   "url": "https://github.com/langchain-ai/langchain",
+   "description": "** \u2014 One of the most widely used frameworks for building LLM-powered agents and chains. Extensive integrations. Raised $125M at $1.25B valuation (Oct 2025). MIT.",
+   "category": "Other AI Agents",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/langchain-ai/langchain",
+    "label": "Visit official site"
+   },
+   "slug": "langchain"
+  },
+  {
+   "title": "LangGraph",
+   "url": "https://github.com/langchain-ai/langgraph",
+   "description": "** \u2014 Graph-based stateful agent orchestration from the LangChain team. Suited for complex, cyclic agent workflows. MIT.",
+   "category": "Other AI Agents",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/langchain-ai/langgraph",
+    "label": "Visit official site"
+   },
+   "slug": "langgraph"
+  },
+  {
+   "title": "OpenQuack",
+   "url": "https://github.com/larryxiao/openquack",
+   "description": "On-device voice dictation for macOS \u2014 transcribes a 5-minute clip in 2.8 s; noise-robust, paste at cursor. 99 languages, ~8 MB, no telemetry. MIT.",
+   "category": "Voice-Related AI Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/larryxiao/openquack",
+    "label": "Visit official site"
+   },
+   "slug": "openquack"
+  },
+  {
+   "title": "Poirot",
+   "url": "https://github.com/LeonardoCardoso/Poirot",
+   "description": "A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline, open source.",
+   "category": "AI-Powered Compilers and Code Assistants",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/LeonardoCardoso/Poirot",
+    "label": "Visit official site"
+   },
+   "slug": "poirot"
+  },
+  {
+   "title": "agentic-ai-prompt-research",
+   "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
+   "description": "** \u2014 Collection of prompt patterns, experiments, and research around agentic AI workflows and prompting strategies.",
+   "category": "AI Agent Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
+    "label": "Visit official site"
+   },
+   "slug": "agentic-ai-prompt-research"
+  },
+  {
+   "title": "FastChat",
+   "url": "https://github.com/lm-sys/FastChat",
+   "description": "** - An open-source chat framework that supports running and fine-tuning large language models, including LLaMA, Vicuna, and other popular options. FastChat can be deployed locally for private, controlled conversational AI applications.",
+   "category": "AI Tool Resources & Directories",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/lm-sys/FastChat",
+    "label": "Visit official site"
+   },
+   "slug": "fastchat"
+  },
+  {
+   "title": "Big Sleep",
+   "url": "https://github.com/lucidrains/big-sleep",
+   "description": "AI model for generating images from text descriptions.",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/lucidrains/big-sleep",
+    "label": "Visit official site"
+   },
+   "slug": "big-sleep"
+  },
+  {
+   "title": "lucinate",
+   "url": "https://github.com/lucinate-ai/lucinate",
+   "description": "** \u2014 Go-based terminal-native TUI chat client for interacting with AI agents via OpenClaw gateways, Hermes profiles, and OpenAI-compatible endpoints. Features streaming responses, markdown rendering, tool call cards, local skills, cron management, session browsing, and multi-agent support. MIT. \u2192 Website \u00b7 Homebrew",
+   "category": "AI Agent Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/lucinate-ai/lucinate",
+    "label": "Visit official site"
+   },
+   "slug": "lucinate"
+  },
+  {
+   "title": "agenttrace",
+   "url": "https://github.com/luoyuctl/agenttrace",
+   "description": "Open-source local TUI observability for AI coding agents. Tracks cost, tokens, latency, failures, health, anomalies, reports, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.",
+   "category": "LLM Ops",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/luoyuctl/agenttrace",
+    "label": "Visit official site"
+   },
+   "slug": "agenttrace"
+  },
+  {
+   "title": "Lynote AI Humanize Text",
+   "url": "https://github.com/lynote-ai/humanize-text",
+   "description": "Open-source AI text humanization toolkit for rewriting AI drafts into natural, human-like writing. Full free web version: https://lynote.ai/ai-humanizer",
+   "category": "\ud83c\udd95 Additional AI and Productivity Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/lynote-ai/humanize-text",
+    "label": "Visit official site"
+   },
+   "slug": "lynote-ai-humanize-text"
+  },
+  {
+   "title": "Mastra",
+   "url": "https://github.com/mastra-ai/mastra",
+   "description": "** \u2014 TypeScript-native AI agent framework for web developers. Workflow automation with typed tools and integrations. MIT.",
+   "category": "Other AI Agents",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/mastra-ai/mastra",
+    "label": "Visit official site"
+   },
+   "slug": "mastra"
+  },
+  {
+   "title": "Mem0",
+   "url": "https://github.com/mem0ai/mem0",
+   "description": "The memory layer for Personalized AI",
+   "category": "LLM Ops",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/mem0ai/mem0",
+    "label": "Visit official site"
+   },
+   "slug": "mem0"
+  },
+  {
+   "title": "Meta LLaMA 3.1 Models",
+   "url": "https://github.com/meta-llama/llama-models",
+   "description": "** - Official repository to use and implement LLaMA 3.1 models, Meta's state-of-the-art large language models.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/meta-llama/llama-models",
+    "label": "Visit official site"
+   },
+   "slug": "meta-llama-3-1-models"
+  },
+  {
+   "title": "AutoGen",
+   "url": "https://github.com/microsoft/autogen",
+   "description": "** *(Microsoft)* \u2014 Multi-agent conversation framework. Agents collaborate, code, and debate to solve problems. CC-BY-4.0.",
+   "category": "Other AI Agents",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/microsoft/autogen",
+    "label": "Visit official site"
+   },
+   "slug": "autogen"
+  },
+  {
+   "title": "mempalace",
+   "url": "https://github.com/milla-jovovich/mempalace",
+   "description": "** \u2014 Memory-oriented tooling for AI agents, focused on persistent context, recall, and more structured long-term memory behavior.",
+   "category": "AI Agent Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/milla-jovovich/mempalace",
+    "label": "Visit official site"
+   },
+   "slug": "mempalace"
+  },
+  {
+   "title": "prompt-to-asset",
+   "url": "https://github.com/MohamedAbdallah-14/prompt-to-asset",
+   "description": "MCP server that routes image generation prompts across 30+ models (Flux, DALL-E, Stable Diffusion, etc). Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.",
+   "category": "Image Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/MohamedAbdallah-14/prompt-to-asset",
+    "label": "Visit official site"
+   },
+   "slug": "prompt-to-asset"
+  },
+  {
+   "title": "unslop",
+   "url": "https://github.com/MohamedAbdallah-14/unslop",
+   "description": "CLI that strips AI writing patterns (sycophantic openers, filler phrases, em-dash overuse) from text files and stdin. Pass through code blocks and URLs unchanged. `npm install -g unslop`.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/MohamedAbdallah-14/unslop",
+    "label": "Visit official site"
+   },
+   "slug": "unslop"
+  },
+  {
+   "title": "AI Context Linter",
+   "url": "https://github.com/MrDwarf7/ai-context-linter",
+   "description": "GitHub Action that lints AI coding context files (CLAUDE.md, .cursorrules, AGENTS.md) for security issues, structural problems, and AI anti-patterns.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/MrDwarf7/ai-context-linter",
+    "label": "Visit official site"
+   },
+   "slug": "ai-context-linter"
+  },
+  {
+   "title": "AI Context Templates",
+   "url": "https://github.com/MrDwarf7/ai-context-templates",
+   "description": "Free CLAUDE.md, Cursor rules, and PRP templates that make AI coding assistants actually useful. 5 ready-to-use template packs for common project types.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/MrDwarf7/ai-context-templates",
+    "label": "Visit official site"
+   },
+   "slug": "ai-context-templates"
+  },
+  {
+   "title": "url-to-md",
+   "url": "https://github.com/MrDwarf7/url-to-md",
+   "description": "Any URL to clean markdown for LLMs. Free API, no signup required. Strips JS/CSS and outputs LLM-ready content.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/MrDwarf7/url-to-md",
+    "label": "Visit official site"
+   },
+   "slug": "url-to-md"
+  },
+  {
+   "title": "WizardLM",
+   "url": "https://github.com/nlpxucan/WizardLM",
+   "description": "** - WizardLM is a family of fine-tuned models based on open-source language models, optimized for instruction-following tasks. Known for its high-quality performance in natural language understanding and generation, WizardLM can be run on local servers.",
+   "category": "\ud83d\udcbb Software for Large Language Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/nlpxucan/WizardLM",
+    "label": "Visit official site"
+   },
+   "slug": "wizardlm"
+  },
+  {
+   "title": "Hermes Agent",
+   "url": "https://github.com/NousResearch/hermes-agent",
+   "description": "** *(NousResearch)* \u2014 The self-improving AI agent. Builds reusable skills from experience and improves them during use, giving it a compounding learning loop. Persistent cross-session memory (SQLite + FTS5), multi-platform gateway (Telegram, Discord, Slack, WhatsApp, Signal, CLI), 40+ built-in tools, and RL/trajectory-generation support via Atropos. One-line install. MIT. \u2192 Website \u00b7 awesome-hermes-agent \u00b7 hermes-workspace",
+   "category": "Other AI Agents",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/NousResearch/hermes-agent",
+    "label": "Visit official site"
+   },
+   "slug": "hermes-agent"
+  },
+  {
+   "title": "Awesome AI Startups",
+   "url": "https://github.com/nowork-studio/awesome-ai-startups",
+   "description": "** - A curated list of bootstrapped, pre-seed, and angel-funded AI products built by independent founders.",
+   "category": "AI Tool Resources & Directories",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/nowork-studio/awesome-ai-startups",
+    "label": "Visit official site"
+   },
+   "slug": "awesome-ai-startups"
+  },
+  {
+   "title": "toprank",
+   "url": "https://github.com/nowork-studio/toprank",
+   "description": "** - Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Pulls real Google Search Console, PageSpeed Insights, and Google Ads API data, audits traffic and wasted ad spend, rewrites meta tags, generates JSON-LD schema markup, and ships the fixes directly to source or CMS (WordPress, Strapi, Contentful, Ghost).",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/nowork-studio/toprank",
+    "label": "Visit official site"
+   },
+   "slug": "toprank"
+  },
+  {
+   "title": "NVIDIA/NemoClaw",
+   "url": "https://github.com/NVIDIA/NemoClaw",
+   "description": "** \u2014 Security & privacy layer",
+   "category": "\ud83e\udd9e OpenClaw Ecosystem",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/NVIDIA/NemoClaw",
+    "label": "Visit official site"
+   },
+   "slug": "nvidia-nemoclaw"
+  },
+  {
+   "title": "superpowers",
+   "url": "https://github.com/obra/superpowers",
+   "description": "** \u2014 Tooling for giving AI systems richer capabilities and more flexible action patterns in practical workflows.",
+   "category": "AI Agent Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/obra/superpowers",
+    "label": "Visit official site"
+   },
+   "slug": "superpowers"
+  },
+  {
+   "title": "WFGY",
+   "url": "https://github.com/onestardao/WFGY",
+   "description": "Open source framework for debugging LLM agents and RAG pipelines with a 16-mode ProblemMap and practical triage checklists.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/onestardao/WFGY",
+    "label": "Visit official site"
+   },
+   "slug": "wfgy"
+  },
+  {
+   "title": "onUI",
+   "url": "https://github.com/onllm-dev/onUI",
+   "description": "Open-source browser extension and MCP server for annotation-first UI pair programming with AI agents. Works with Claude Code, Cursor, Windsurf, Copilot. Chrome, Edge, Firefox. Free, GPL-3.0.",
+   "category": "AI-Powered Compilers and Code Assistants",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/onllm-dev/onUI",
+    "label": "Visit official site"
+   },
+   "slug": "onui"
+  },
+  {
+   "title": "Text Generation Web UI",
+   "url": "https://github.com/oobabooga/text-generation-webui",
+   "description": "** - An open-source web-based interface for running and managing language models locally, with support for a range of models, including LLaMA, GPT-J, and others. This tool is popular for experimentation and customization of LLMs without relying on cloud infrastructure.",
+   "category": "\ud83d\udcbb Software for Large Language Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/oobabooga/text-generation-webui",
+    "label": "Visit official site"
+   },
+   "slug": "text-generation-web-ui"
+  },
+  {
+   "title": "ClawHub",
+   "url": "https://github.com/openclaw/clawhub",
+   "description": "** \u2014 Skill directory",
+   "category": "\ud83e\udd9e OpenClaw Ecosystem",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/openclaw/clawhub",
+    "label": "Visit official site"
+   },
+   "slug": "clawhub"
+  },
+  {
+   "title": "openclaw/lobster",
+   "url": "https://github.com/openclaw/lobster",
+   "description": "** \u2014 Workflow shell / macro engine",
+   "category": "\ud83e\udd9e OpenClaw Ecosystem",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/openclaw/lobster",
+    "label": "Visit official site"
+   },
+   "slug": "openclaw-lobster"
+  },
+  {
+   "title": "openclaw/nix-openclaw",
+   "url": "https://github.com/openclaw/nix-openclaw",
+   "description": "** \u2014 Nix packaging",
+   "category": "\ud83e\udd9e OpenClaw Ecosystem",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/openclaw/nix-openclaw",
+    "label": "Visit official site"
+   },
+   "slug": "openclaw-nix-openclaw"
+  },
+  {
+   "title": "openclaw/openclaw",
+   "url": "https://github.com/openclaw/openclaw",
+   "description": "** \u2014 Main project repo",
+   "category": "\ud83e\udd9e OpenClaw Ecosystem",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/openclaw/openclaw",
+    "label": "Visit official site"
+   },
+   "slug": "openclaw-openclaw"
+  },
+  {
+   "title": "openclaw/openclaw-ansible",
+   "url": "https://github.com/openclaw/openclaw-ansible",
+   "description": "** \u2014 Automated + hardened installs",
+   "category": "\ud83e\udd9e OpenClaw Ecosystem",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/openclaw/openclaw-ansible",
+    "label": "Visit official site"
+   },
+   "slug": "openclaw-openclaw-ansible"
+  },
+  {
+   "title": "openclaw/skills",
+   "url": "https://github.com/openclaw/skills",
+   "description": "** \u2014 Archived skills",
+   "category": "\ud83e\udd9e OpenClaw Ecosystem",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/openclaw/skills",
+    "label": "Visit official site"
+   },
+   "slug": "openclaw-skills"
+  },
+  {
+   "title": "Qwen3-Coder",
+   "url": "https://github.com/QwenLM/Qwen3-Coder",
+   "description": "** \u2013 Coding-focused family",
+   "category": "\ud83c\udde8\ud83c\uddf3 Leading Chinese AI Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/QwenLM/Qwen3-Coder",
+    "label": "Visit official site"
+   },
+   "slug": "qwen3-coder"
+  },
+  {
+   "title": "Qwen3-Omni",
+   "url": "https://github.com/QwenLM/Qwen3-Omni",
+   "description": "** \u2013 Unified multimodal family",
+   "category": "\ud83c\udde8\ud83c\uddf3 Leading Chinese AI Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/QwenLM/Qwen3-Omni",
+    "label": "Visit official site"
+   },
+   "slug": "qwen3-omni"
+  },
+  {
+   "title": "Qwen3-TTS",
+   "url": "https://github.com/QwenLM/Qwen3-TTS",
+   "description": "** \u2013 Speech / voice generation",
+   "category": "\ud83c\udde8\ud83c\uddf3 Leading Chinese AI Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/QwenLM/Qwen3-TTS",
+    "label": "Visit official site"
+   },
+   "slug": "qwen3-tts"
+  },
+  {
+   "title": "Qwen3-VL",
+   "url": "https://github.com/QwenLM/Qwen3-VL",
+   "description": "** \u2013 Vision-language models",
+   "category": "\ud83c\udde8\ud83c\uddf3 Leading Chinese AI Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/QwenLM/Qwen3-VL",
+    "label": "Visit official site"
+   },
+   "slug": "qwen3-vl"
+  },
+  {
+   "title": "OpenFang",
+   "url": "https://github.com/RightNow-AI/openfang",
+   "description": "** \u2014 Open-source Agent Operating System built in Rust (137K LOC, 14 crates, 1,767+ tests, zero Clippy warnings). Ships as a single ~32 MB binary with 7 autonomous \"Hands\" that run on schedules without you prompting them (Researcher, Lead, Browser, Clip, Collector, Predictor, Twitter), 40 channel adapters, 16 security layers (WASM sandbox, Merkle audit trail, taint tracking, SSRF protection, etc.), and a FangHub skill marketplace. Apache-2.0 / MIT. \u2192 Website",
+   "category": "Other AI Agents",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/RightNow-AI/openfang",
+    "label": "Visit official site"
+   },
+   "slug": "openfang"
+  },
+  {
+   "title": "LlamaIndex",
+   "url": "https://github.com/run-llama/llama_index",
+   "description": "LlamaIndex is a data framework for your LLM applications",
+   "category": "LLM Ops",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/run-llama/llama_index",
+    "label": "Visit official site"
+   },
+   "slug": "llamaindex"
+  },
+  {
+   "title": "ai-manus",
+   "url": "https://github.com/Simpleyyt/ai-manus",
+   "description": "** \u2014 Self-hostable Manus-style agent with sandboxed Docker environments, Terminal/Browser/File/Search tools, MCP integration, and optional OpenClaw (Claw) integration for one-click deployment.",
+   "category": "Other AI Agents",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/Simpleyyt/ai-manus",
+    "label": "Visit official site"
+   },
+   "slug": "ai-manus"
+  },
+  {
+   "title": "Bernstein",
+   "url": "https://github.com/sipyourdrink-ltd/bernstein",
+   "description": "** \u2014 Multi-agent orchestrator for CLI coding agents (Claude Code, Codex CLI, Gemini CLI, and 34 more). Deterministic Python scheduler, first-class MCP server, file-based state, quality gates, cost tracking. Apache-2.0.",
+   "category": "Other AI Agents",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/sipyourdrink-ltd/bernstein",
+    "label": "Visit official site"
+   },
+   "slug": "bernstein"
+  },
+  {
+   "title": "Overloop CLI",
+   "url": "https://github.com/sortlist/overloop-cli",
+   "description": "** - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native. `npm i -g overloop-cli`",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/sortlist/overloop-cli",
+    "label": "Visit official site"
+   },
+   "slug": "overloop-cli"
+  },
+  {
+   "title": "Signals CLI",
+   "url": "https://github.com/sortlist/signals-cli",
+   "description": "** - Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. `npm i -g signals-sortlist-cli`",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/sortlist/signals-cli",
+    "label": "Visit official site"
+   },
+   "slug": "signals-cli"
+  },
+  {
+   "title": "Steel Browser",
+   "url": "https://github.com/steel-dev/steel-browser",
+   "description": "Open-source browser sandbox and automation infrastructure for AI agents and apps with session-backed workflows, screenshots, PDFs, proxies, and anti-bot tooling.",
+   "category": "AI-Powered Compilers and Code Assistants",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/steel-dev/steel-browser",
+    "label": "Visit official site"
+   },
+   "slug": "steel-browser"
+  },
+  {
+   "title": "TextCraft",
+   "url": "https://github.com/suncloudsmoon/TextCraft",
+   "description": "Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.",
+   "category": "\ud83e\udd16 AI-Related Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/suncloudsmoon/TextCraft",
+    "label": "Visit official site"
+   },
+   "slug": "textcraft"
+  },
+  {
+   "title": "SwarmClaw",
+   "url": "https://github.com/swarmclawai/swarmclaw",
+   "description": "** \u2014 Self-hosted multi-agent AI runtime. MCP client + server, 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and inbound connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix. Electron desktop app, CLI, and Docker. MIT. \u2192 Website",
+   "category": "Other AI Agents",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/swarmclawai/swarmclaw",
+    "label": "Visit official site"
+   },
+   "slug": "swarmclaw"
+  },
+  {
+   "title": "SwarmVault",
+   "url": "https://github.com/swarmclawai/swarmvault",
+   "description": "** \u2014 Local-first RAG knowledge base compiler inspired by Karpathy's LLM Wiki. Three-layer raw/wiki/schema architecture, persistent markdown wiki, knowledge graph, hybrid SQLite FTS + embeddings, contradiction detection, and a built-in MCP server. MIT.",
+   "category": "AI Agent Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/swarmclawai/swarmvault",
+    "label": "Visit official site"
+   },
+   "slug": "swarmvault"
+  },
+  {
+   "title": "Taskade",
+   "url": "https://github.com/taskade/taskade",
+   "description": "** - Open-source AI-native workspace to build apps, deploy AI agents, and automate workflows.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/taskade/taskade",
+    "label": "Visit official site"
+   },
+   "slug": "taskade"
+  },
+  {
+   "title": "Tencent Hunyuan GitHub",
+   "url": "https://github.com/Tencent-Hunyuan",
+   "description": "** \u2013 Open model repositories",
+   "category": "\ud83c\udde8\ud83c\uddf3 Leading Chinese AI Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/Tencent-Hunyuan",
+    "label": "Visit official site"
+   },
+   "slug": "tencent-hunyuan-github"
+  },
+  {
+   "title": "nhs-score-check-action",
+   "url": "https://github.com/unitedideas/nhs-score-check-action",
+   "description": "** \u2014 GitHub Action that fetches your site's agentic readiness score via Not Human Search and fails CI if the score drops. Protects against regressions in your agent-facing surface. MIT.",
+   "category": "AI Agent Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/unitedideas/nhs-score-check-action",
+    "label": "Visit official site"
+   },
+   "slug": "nhs-score-check-action"
+  },
+  {
+   "title": "BlackVault",
+   "url": "https://github.com/venkat22022202/black-vault",
+   "description": "Open-source proxy gateway for AI API keys. Generate proxy tokens for agents \u2014 BlackVault injects the real key server-side and forwards to OpenAI, Anthropic, Google AI, and Nebius AI. Kill a token for instant revocation.",
+   "category": "LLM Ops",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/venkat22022202/black-vault",
+    "label": "Visit official site"
+   },
+   "slug": "blackvault"
+  },
+  {
+   "title": "poorcoder",
+   "url": "https://github.com/vgrichina/poorcoder",
+   "description": "Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok.",
+   "category": "AI-Powered Compilers and Code Assistants",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/vgrichina/poorcoder",
+    "label": "Visit official site"
+   },
+   "slug": "poorcoder"
+  },
+  {
+   "title": "clawdbot-formal-models",
+   "url": "https://github.com/vignesh07/clawdbot-formal-models",
+   "description": "** \u2014 TLA+ security models",
+   "category": "\ud83e\udd9e OpenClaw Ecosystem",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/vignesh07/clawdbot-formal-models",
+    "label": "Visit official site"
+   },
+   "slug": "clawdbot-formal-models"
+  },
+  {
+   "title": "agent-qa",
+   "url": "https://github.com/vostride/agent-qa",
+   "description": "** \u2014 Self-improving agentic QA harness with memory for natural-language web and mobile test execution.",
+   "category": "AI Agent Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/vostride/agent-qa",
+    "label": "Visit official site"
+   },
+   "slug": "agent-qa"
+  },
+  {
+   "title": "Mira",
+   "url": "https://github.com/vwww-droid/Mira",
+   "description": "** \u2014 AI-assisted runtime protection analysis platform for third-party Android and iOS apps, enabling agents to use host-app-side shell, Java, Native, and Frida capabilities for environment risk detection and hardening validation.",
+   "category": "AI Agent Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/vwww-droid/Mira",
+    "label": "Visit official site"
+   },
+   "slug": "mira"
+  },
+  {
+   "title": "MidJourney Styles and Keywords on GitHub",
+   "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords",
+   "description": "A GitHub repository with styles and keywords for Midjourney.",
+   "category": "Tools for better image prompting",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords",
+    "label": "Visit official site"
+   },
+   "slug": "midjourney-styles-and-keywords-on-github"
+  },
+  {
+   "title": "AI Visibility Monitor",
+   "url": "https://github.com/WorkSmartAI-alt/ai-visibility-monitor",
+   "description": "Open-source Python toolkit that tracks whether ChatGPT, Claude, and Perplexity cite your site. MIT license, runs locally on your credentials.",
+   "category": "SEO related tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/WorkSmartAI-alt/ai-visibility-monitor",
+    "label": "Visit official site"
+   },
+   "slug": "ai-visibility-monitor"
+  },
+  {
+   "title": "WritBase",
+   "url": "https://github.com/Writbase/writbase",
+   "description": "AI Agent Task Management",
+   "category": "\ud83c\udd95 Additional AI and Productivity Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/Writbase/writbase",
+    "label": "Visit official site"
+   },
+   "slug": "writbase"
+  },
+  {
+   "title": "TweetClaw",
+   "url": "https://github.com/Xquik-dev/tweetclaw",
+   "description": "** - OpenClaw plugin and npm package for X/Twitter automation: search tweets and replies, post tweets and replies, export followers, manage media, monitor tweets, webhooks, and giveaway draws. Install with `openclaw plugins install @xquik/tweetclaw`.",
+   "category": "Other AI Agents",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/Xquik-dev/tweetclaw",
+    "label": "Visit official site"
+   },
+   "slug": "tweetclaw"
+  },
+  {
+   "title": "X Twitter Scraper",
+   "url": "https://github.com/Xquik-dev/x-twitter-scraper",
+   "description": "** - Agent skill and MCP server for tweet search, user lookup, follower export, media download, webhooks, and confirmation-gated X actions. MIT.",
+   "category": "AI Agent Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/Xquik-dev/x-twitter-scraper",
+    "label": "Visit official site"
+   },
+   "slug": "x-twitter-scraper"
+  },
+  {
+   "title": "GLM-5.1",
+   "url": "https://github.com/zai-org/GLM-5",
+   "description": "** \u2013 current flagship model for agentic engineering and stronger coding workflows",
+   "category": "\ud83c\udde8\ud83c\uddf3 Leading Chinese AI Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/zai-org/GLM-5",
+    "label": "Visit official site"
+   },
+   "slug": "glm-5-1"
+  },
+  {
+   "title": "ZeroClaw",
+   "url": "https://github.com/zeroclaw-labs/zeroclaw",
+   "description": "** \u2013 Lightweight autonomous agent framework",
+   "category": "\ud83e\udd9e OpenClaw Ecosystem",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://github.com/zeroclaw-labs/zeroclaw",
+    "label": "Visit official site"
+   },
+   "slug": "zeroclaw"
+  },
+  {
+   "title": "GlitchAI",
+   "url": "https://glitchai.com",
+   "description": "AI for video glitch effects.",
+   "category": "Video Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://glitchai.com",
+    "label": "Visit official site"
+   },
+   "slug": "glitchai"
+  },
+  {
+   "title": "GoCodeo",
+   "url": "https://www.gocodeo.com/",
+   "description": "AI agent for building full-stack apps in minutes.",
+   "category": "AI-Powered Compilers and Code Assistants",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.gocodeo.com/",
+    "label": "Visit official site"
+   },
+   "slug": "gocodeo"
+  },
+  {
+   "title": "GPT4All",
+   "url": "https://gpt4all.io/",
+   "description": "** - GPT4All offers a range of locally deployable language models that are specifically optimized to run on consumer-grade hardware. Ideal for users who want to run a high-quality LLM without relying on cloud services, GPT4All supports tasks like chatbots, content generation, and code assistance.",
+   "category": "\ud83d\udcbb Software for Large Language Models",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://gpt4all.io/",
+    "label": "Visit official site"
+   },
+   "slug": "gpt4all"
+  },
+  {
+   "title": "Grammarly",
+   "url": "https://www.grammarly.com/",
+   "description": "Writing Assistant",
+   "category": "\ud83c\udd95 Additional AI and Productivity Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.grammarly.com/",
+    "label": "Visit official site"
+   },
+   "slug": "grammarly"
+  },
+  {
+   "title": "Deep Video Portraits",
+   "url": "https://www.graphics.stanford.edu/projects/deepvideo",
+   "description": "AI-driven facial reenactment in videos.",
+   "category": "Video Generation Tools",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.graphics.stanford.edu/projects/deepvideo",
+    "label": "Visit official site"
+   },
+   "slug": "deep-video-portraits"
+  },
+  {
+   "title": "grok.com",
+   "url": "https://grok.com/",
+   "description": "** \u2014 Main chat interface (web, iOS, Android), also integrated into X",
+   "category": "xAI Grok",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://grok.com/",
+    "label": "Visit official site"
+   },
+   "slug": "grok-com"
+  },
+  {
+   "title": "Google AI Pro for Students",
+   "url": "https://grow.google/students/",
+   "description": ": Provides a free 1-year subscription** to the Google AI Pro plan.",
+   "category": "\ud83c\udf93 Free Stuff for Students & Educators",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://grow.google/students/",
+    "label": "Visit official site"
+   },
+   "slug": "google-ai-pro-for-students"
+  },
+  {
+   "title": "Haiper",
+   "url": "https://haiper.ai/",
+   "description": "** - (UK) An AI video generation tool focused on creating high-quality, engaging content with ease, quickly emerging as a strong competitor in the space.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://haiper.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "haiper"
+  },
+  {
+   "title": "HandyAI",
+   "url": "https://handyai.tools",
+   "description": "** \u2013 Free single-purpose tools for LLM developers: a token counter and an API cost calculator across Claude, GPT, and Gemini. Runs client-side, no signup.",
+   "category": "Unsorted category",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://handyai.tools",
+    "label": "Visit official site"
+   },
+   "slug": "handyai"
+  },
+  {
+   "title": "Havoptic",
+   "url": "https://havoptic.com/",
+   "description": "Free, open-source release tracker for AI coding tools. Aggregates changelogs from Cursor, Codex CLI, Gemini CLI, and more.",
+   "category": "AI-Powered Compilers and Code Assistants",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://havoptic.com/",
+    "label": "Visit official site"
+   },
+   "slug": "havoptic"
+  },
+  {
+   "title": "Helicone AI",
+   "url": "https://www.helicone.ai/",
+   "description": "The open-source LLM observability for developers.",
+   "category": "LLM Ops",
+   "affiliate": {
+    "program": null,
+    "offer_url": "https://www.helicone.ai/",
+    "label": "Visit official site"
+   },
+   "slug": "helicone-ai"
+  }
+ ]
+}
